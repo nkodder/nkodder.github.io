@@ -1,8 +1,8 @@
-Origin: <Your Repo’s Name>
-Label: <Your Repository’s Label >
+Origin: dragonslayer4832's Repo
+Label: dragonslayer4832
 Suite: stable
 Version: 1.0
-Codename: cydia-ios
-Architectures: iphoneos-arm
+Codename: dragonslayer4832
+Architecture: iphoneos-arm
 Components: main
-Description: <Your Repo’s Display Name>
+Description: Tweaks I find useful :) If you want something taken down, PM me on reddit: /u/dragonslayer4832
