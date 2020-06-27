@@ -1,0 +1,8 @@
+Origin: nkodder's Repo
+Label: nkodder
+Suite: stable
+Version: 1.0
+Codename: nko0dder
+Architecture: iphoneos-arm
+Components: main
+Description: Tweaks 
