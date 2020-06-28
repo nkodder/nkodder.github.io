@@ -1,0 +1,15 @@
+Package: com.nk.youtubenoads
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Installed-Size: 112
+Depends: mobilesubstrate
+Filename: ./debs/youtube-nk.deb
+Size: 8580
+MD5sum: 28328929cdae0579eaa46080728b3caf
+SHA1: f1d5777cb90b2cbcfe5cb8eb45d9bc298aeb4554
+SHA256: b86683b2553d9dac9e3816a443a27a749c62697c94d2fb3fd1edbef260033736
+Section: Tweaks
+Description: no ads
+Author: nk
+Name: youtubenoads
+
