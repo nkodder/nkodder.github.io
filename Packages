@@ -28,16 +28,15 @@ Name: class-dump-ios
 Author: DreamDevLost
 
 Package: com.pixonic.wwr
-Version: 1.0
+Version: 6.0.1
 Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/wwr601.deb
-Size: 103538
+Filename: debs/com.pixonic.wwr_6.0.1_iphoneos-arm.deb
+Size: 103698
 Installed-Size: 512
-MD5sum: 8a5f6de29fbb8c293980601364223e58
-Description: wwr Mod Menu by nk!
+MD5sum: f7f44aa1b8962639a5b4b000cda4697d
+Description: Mod2 -speedx6 -ability no cooldown
 Name: wwr Mod Menu
 Author: nk
-Homepage: 
