@@ -13,10 +13,10 @@ Author: nk
 
 Package: ClassDump ios13
 Version: 1.0
-Architecture: 
+Architecture: iphoneos-arm
 Maintainer: nk
 Installed-Size: 
-Depends: 
+Depends: mobilesubstrate
 Filename: /classdump-ios13.deb
 Size: 514704
 MD5sum: 3e625c142b1cbf94eedeb4be05a4da4f
