@@ -11,20 +11,18 @@ Description: no ads
 Name: youtubenoads
 Author: nk
 
-Package: com.nk.classdump-ios13
-Version: 1.0
-Architecture: 
-Maintainer: nk
-Installed-Size: 1552
+Package: com.nk-dump-ios
+Version: 1.0.1-1+debug
+Section: System
+Maintainer: DreamDevLost
 Depends: 
-Filename: /classdump-ios13.deb
+Architecture: iphoneos-arm
+Filename: debs/classdump-ios13.deb
 Size: 514704
+Installed-Size: 1552
 MD5sum: 3e625c142b1cbf94eedeb4be05a4da4f
-SHA1: 7f100c6d129b9911ff919cc0ead70f5dcef957c4
-SHA256: 5ff2c6f842746092b2335c102beaab6dd7ce2d5e8103d281e3cfbf04f11d7f0c
-Section: Tweaks
 Description: classdump -H /var/mobile/1 -o /var/mobile/2
-
-1=binary  2=folder
-Author: nk
-Name: classdump-ios13
+ 1=binary
+ 2=folder
+Name: class-dump-ios
+Author: DreamDevLost
