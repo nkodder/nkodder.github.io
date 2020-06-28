@@ -12,7 +12,7 @@ Name: youtubenoads
 Author: nk
 
 Package: com.nkodder.classdump
-Version: 0.0.1
+Version: 1.0
 Architecture: 
 Maintainer: nk
 Installed-Size: 
@@ -27,4 +27,4 @@ Description: classdump -H /var/mobile/1 -o /var/mobile/2
 
 1=binary  2=folder
 Author: nk
-Name: classdump for ios13
+Name: ClassDump ios13
