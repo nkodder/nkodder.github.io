@@ -23,6 +23,8 @@ MD5sum: 3e625c142b1cbf94eedeb4be05a4da4f
 SHA1: 7f100c6d129b9911ff919cc0ead70f5dcef957c4
 SHA256: 5ff2c6f842746092b2335c102beaab6dd7ce2d5e8103d281e3cfbf04f11d7f0c
 Section: Tweaks
-Description: An awesome mobile substrate tweak
+Description: classdump -H /var/mobile/1 -o /var/mobile/2
+
+1=binary  2=folder
 Author: nk
-Name: classdump
+Name: classdump for ios13
