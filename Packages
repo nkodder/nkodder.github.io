@@ -11,7 +11,7 @@ Description: no ads
 Name: youtubenoads
 Author: nk
 
-Package: ClassDump ios13
+Package: com.nk.ClassDump ios13
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: nk
