@@ -1,4 +1,4 @@
-Package: com.nk.youtubenoads
+Package: com.nkodder.youtubenoads
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Installed-Size: 112
@@ -12,4 +12,3 @@ Section: Tweaks
 Description: no ads
 Author: nk
 Name: youtubenoads
-
