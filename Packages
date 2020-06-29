@@ -55,3 +55,18 @@ Description: gob Mod Menu by nk!
 Name: gob Mod1
 Author: nk
 Homepage: 
+
+Package: com.garena.game.fctw
+Version: 1.16
+Section: Tweaks
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.garena.game.fctw_1.16_iphoneos-arm.deb
+Size: 368312
+Installed-Size: 644
+MD5sum: add0b15c49a2eb579a05d4296b7bad0d
+Description: speed mini boost no cooldown
+Name: speed drifters
+Author: nk
+Homepage:
