@@ -72,15 +72,15 @@ Author: nk
 Homepage:
 
 Package: com.nk.homex
-Version: 1.5-1-1+debug
+Version: 1.5-2-1+debug
 Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.nk.homex_1.5-1-1+debug_iphoneos-arm.deb
-Size: 3778
+Filename: debs/com.nk.homex_1.5-2-1+debug_iphoneos-arm.deb
+Size: 3772
 Installed-Size: 104
-MD5sum: 79200befcca1c15d336ed68aebe3fe86
-Description: Enable iPhone X home gesture on se 2020 or other devices.
-Name: HomeGesture for Se 2020
+MD5sum: 136583eb351b344ac255872fbdca2ebb
+Description: Enable iPhone X on se 2020 or other devices.
+Name: HomeGesture for Se2020
 Author: nk
