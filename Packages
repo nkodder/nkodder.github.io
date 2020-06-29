@@ -34,9 +34,24 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.pixonic.wwr_6.0.1_iphoneos-arm.deb
-Size: 103698
+Size: 103022
 Installed-Size: 512
-MD5sum: f7f44aa1b8962639a5b4b000cda4697d
+MD5sum: fe8c760897162b5be58c96f1656b2556
 Description: Mod2 -speedx6 -ability no cooldown
-Name: wwr Mod Menu
+Name: wwr Mod 1
 Author: nk
+
+Package: com.gameinsight.gobios
+Version: 17.0.113
+Section: Tweaks
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.gameinsight.gobios_17.0.113_iphoneos-arm.deb
+Size: 68498
+Installed-Size: 256
+MD5sum: 41607e361d6b1cb99add4005a88e3575
+Description: gob Mod Menu by nk!
+Name: gob Mod1
+Author: nk
+Homepage: 
