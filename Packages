@@ -72,15 +72,15 @@ Author: nk
 Homepage:
 
 Package: com.nk.homex
-Version: 1.5-3-1+debug
+Version: 1.5-4-1+debug
 Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.nk.homex_1.5-3-1+debug_iphoneos-arm.deb
-Size: 3986
-Installed-Size: 104
-MD5sum: 3db7fca71f1f14c71b1e3ca27e45f5dd
-Description: Enable iPhone X on se 2020 or other devices.
+Filename: debs/com.nk.homex_1.5-4-1+debug_iphoneos-arm.deb
+Size: 4324
+Installed-Size: 108
+MD5sum: 95b87f28b5fb7793fac8ec85fc01c140
+Description: Enable iPhone X on se 2020 Hide barX,lock no Flashlight,camera
 Name: HomeGesture for Se2020
 Author: nk
