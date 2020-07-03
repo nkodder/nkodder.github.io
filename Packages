@@ -85,18 +85,19 @@ Name: RepoGen
 Author: jakeajames
 
 Package: com.nkodder.workingcopy
-Version: 0.0.1-1+debug
+Version: 0.0.1-1-1+debug
 Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.nkodder.workingcopy_0.0.1-1+debug_iphoneos-arm.deb
-Size: 8542
+Filename: debs/com.nkodder.workingcopy_0.0.1-1-1+debug_iphoneos-arm.deb
+Size: 8578
 Installed-Size: 112
-MD5sum: 2b0b3a46a33d139bfacd302f0586ba5e
+MD5sum: 05984d6b9e7364f7eb3811922abd363e
 Description: Unlock Premium
 Name: Working Copy
 Author: nk
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.pixonic.wwr
 Version: 6.0.1
