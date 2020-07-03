@@ -1,0 +1,8 @@
+Origin: Thai
+Label: nkodder
+Suite: stable
+Version: 1
+Codename: nkodder
+Architectures: iphoneos-arm
+Components: main
+Description: Test Repo

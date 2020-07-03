@@ -1,0 +1,116 @@
+Package: com.gameinsight.gobios
+Version: 17.0.113
+Section: Tweaks
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.gameinsight.gobios_17.0.113_iphoneos-arm.deb
+Size: 68498
+Installed-Size: 256
+MD5sum: 41607e361d6b1cb99add4005a88e3575
+Description: gob Mod Menu by nk!
+Name: gob Mod1
+Author: nk
+Homepage: 
+
+Package: com.garena.game.fctw
+Version: 1.16
+Section: Tweaks
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.garena.game.fctw_1.16_iphoneos-arm.deb
+Size: 368312
+Installed-Size: 644
+MD5sum: add0b15c49a2eb579a05d4296b7bad0d
+Description: speed mini boost no cooldown
+Name: speed drifters
+Author: nk
+Homepage: 
+
+Package: com.nk-dump-ios
+Version: 1.0.1-1+debug
+Section: System
+Maintainer: DreamDevLost
+Depends: 
+Architecture: iphoneos-arm
+Filename: debs/classdump-ios13.deb
+Size: 514704
+Installed-Size: 1552
+MD5sum: 3e625c142b1cbf94eedeb4be05a4da4f
+Description: classdump -H /var/mobile/1 -o /var/mobile/2
+ 1=binary
+ 2=folder
+Name: class-dump-ios
+Author: DreamDevLost
+
+Package: com.nk.homex
+Version: 1.5-4-1+debug
+Section: Tweaks
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.nk.homex_1.5-4-1+debug_iphoneos-arm.deb
+Size: 4324
+Installed-Size: 108
+MD5sum: 95b87f28b5fb7793fac8ec85fc01c140
+Description: Enable iPhone X on se 2020 Hide barX,lock no Flashlight,camera
+Name: HomeGesture for Se2020
+Author: nk
+
+Package: com.nk.youtubenoads
+Version: 0.0.1-1+debug
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/youtube-nk.deb
+Size: 8580
+Installed-Size: 112
+MD5sum: 28328929cdae0579eaa46080728b3caf
+Description: no ads
+Name: youtubenoads
+Author: nk
+
+Package: com.nkodder.repogen
+Version: 1.0
+Section: System
+Maintainer: nk
+Architecture: iphoneos-arm
+Filename: debs/repogen.deb
+Size: 5057038
+Installed-Size: 1696
+MD5sum: 38b2638624c1f3bf46133c06adeb7e01
+Description: gen repo !
+Name: RepoGen
+Author: jakeajames
+
+Package: com.nkodder.workingcopy
+Version: 0.0.1-1-1+debug
+Section: Tweaks
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.nkodder.workingcopy_0.0.1-1-1+debug_iphoneos-arm.deb
+Size: 8578
+Installed-Size: 112
+MD5sum: 05984d6b9e7364f7eb3811922abd363e
+Description: Unlock Premium
+Name: Working Copy
+Author: nk
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
+
+Package: com.pixonic.wwr
+Version: 6.0.1-1
+Section: Tweaks
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pixonic.wwr_6.0.1-1_iphoneos-arm.deb
+Size: 103518
+Installed-Size: 512
+MD5sum: 82292e9e46e6ab640151a4ef35c7e3d9
+Description: Mod2 -speedx6 -ability no cooldown
+Name: wwr Mod 1
+Author: nk
+Depiction: http://nkodder.github.io/description.html?id=com.pixonic.wwr
+
