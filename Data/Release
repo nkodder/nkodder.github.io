@@ -1,8 +1,8 @@
-Origin: nk
+Origin: Thai
 Label: nkodder.github.io
 Suite: stable
 Version: 1
 Codename: nkodder.github.io
 Architectures: iphoneos-arm
 Components: main
-Description: test
+Description: test Repo
