@@ -5,4 +5,5 @@ Version: 1
 Codename: nkodder.github.io
 Architectures: iphoneos-arm
 Components: main
-Description: [url]https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=nkodder%40gmail.com&lc=US&item_name=Coffee&amount=5.00&currency_code=USD&button_subtype=services&no_note=0&bn=PP-BuyNowBF%3Abtn_buynowCC_LG.gif%3ANonHostedGuest[url]
+Description: Test Repo
+
