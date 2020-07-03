@@ -100,16 +100,17 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.pixonic.wwr
-Version: 6.0.1
+Version: 6.0.1-1
 Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.0.1_iphoneos-arm.deb
-Size: 103022
+Filename: debs/com.pixonic.wwr_6.0.1-1_iphoneos-arm.deb
+Size: 103518
 Installed-Size: 512
-MD5sum: fe8c760897162b5be58c96f1656b2556
+MD5sum: 82292e9e46e6ab640151a4ef35c7e3d9
 Description: Mod2 -speedx6 -ability no cooldown
 Name: wwr Mod 1
 Author: nk
+Depiction: http://nkodder.github.io/description.html?id=com.pixonic.wwr
 
