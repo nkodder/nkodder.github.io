@@ -1,17 +1,18 @@
 Package: com.gameinsight.gobios
-Version: 17.0.113
+Version: 17.0.113-1
 Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_17.0.113_iphoneos-arm.deb
-Size: 68498
+Filename: debs/com.gameinsight.gobios_17.0.113-1_iphoneos-arm.deb
+Size: 68522
 Installed-Size: 256
-MD5sum: 41607e361d6b1cb99add4005a88e3575
+MD5sum: 2dd79df77f6ce92b222e0fcaf7eba8ad
 Description: gob Mod Menu by nk!
 Name: gob Mod1
 Author: nk
 Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.gameinsight.gobios
 
 Package: com.garena.game.fctw
 Version: 1.16
