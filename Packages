@@ -72,19 +72,6 @@ Description: no ads
 Name: youtubenoads
 Author: nk
 
-Package: com.nkodder.repogen
-Version: 1.0
-Section: System
-Maintainer: nk
-Architecture: iphoneos-arm
-Filename: debs/repogen.deb
-Size: 5057038
-Installed-Size: 1696
-MD5sum: 38b2638624c1f3bf46133c06adeb7e01
-Description: gen repo !
-Name: RepoGen
-Author: jakeajames
-
 Package: com.nkodder.workingcopy
 Version: 0.0.1-1-1+debug
 Section: Tweaks
