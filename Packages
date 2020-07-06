@@ -59,19 +59,6 @@ Description: Enable iPhone X on se 2020 Hide barX,lock no Flashlight,camera
 Name: HomeGesture for Se2020
 Author: nk
 
-Package: com.nk.youtubenoads
-Version: 0.0.1-1+debug
-Section: Tweaks
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/youtube-nk.deb
-Size: 8580
-Installed-Size: 112
-MD5sum: 28328929cdae0579eaa46080728b3caf
-Description: no ads
-Name: youtubenoads
-Author: nk
-
 Package: com.nkodder.workingcopy
 Version: 0.0.1-1-1+debug
 Section: Tweaks
@@ -86,6 +73,21 @@ Description: Unlock Premium
 Name: Working Copy
 Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
+
+Package: com.nkodder.youtubegods
+Version: 1.2-1+debug
+Section: Tweaks
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/YoutubeGods.deb
+Size: 63366
+Installed-Size: 356
+MD5sum: dc7311aa5e572505a3258892a7e463cc
+Description: no Ads• HD Video• play Background
+Name: YoutubeGods
+Author: nk
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder.youtubegods
 
 Package: com.pixonic.wwr
 Version: 6.2.1
