@@ -90,15 +90,15 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.nkodder.youtubegods
-Version: 1.2-2
+Version: 1.2-1+debug
 Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/YoutubeGods.deb
-Size: 69384
+Filename: debs/com.nkodder.youtubegods_1.2-1+debug_iphoneos-arm.deb
+Size: 39230
 Installed-Size: 356
-MD5sum: f29f48d972274d520558a857b893eda3
+MD5sum: d22c96d0e48ae406fd20f3237dff00e1
 Description: no Ads• HD Video• play Background
 Name: YoutubeGods
 Author: nk
