@@ -59,6 +59,21 @@ Description: Enable iPhone X on se 2020 Hide barX,lock no Flashlight,camera
 Name: HomeGesture for Se2020
 Author: nk
 
+Package: com.nkodder.hotspotshield
+Version: 6.0.1-1+debug
+Section: Tweaks
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.nkodder.hotspotshield_6.0.1-1+debug_iphoneos-arm.deb
+Size: 9912
+Installed-Size: 160
+MD5sum: 48f29b591af0f6b91adb2de45751cb2c
+Description: unlock Premium
+Name: HotspotShield
+Author: nk
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder.hotspotshield
+
 Package: com.nkodder.workingcopy
 Version: 0.0.1-1-1+debug
 Section: Tweaks
