@@ -119,17 +119,17 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.youtubegods
 
 Package: com.pixonic.wwr
-Version: 6.2.1
+Version: 6.2.1-2
 Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.2.1_iphoneos-arm.deb
-Size: 102964
+Filename: debs/com.pixonic.wwr_6.2.1-2_iphoneos-arm.deb
+Size: 103064
 Installed-Size: 512
-MD5sum: b7f0e3a7d60c6598e0844b531fb863aa
-Description: move speed
-Name: wwr Mod 1
+MD5sum: 814a6d4ad0ea043533b8b00216f66cb6
+Description: wwr Mod Menu by nk!
+Name: wwr Mod Menu
 Author: nk
-Depiction: http://nkodder.github.io/description.html?id=com.pixonic.wwr
+Homepage: 
 
