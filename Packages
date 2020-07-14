@@ -1,33 +1,33 @@
 Package: com.gameinsight.gobios
-Version: 17.0.113-1
-Section: Tweaks
+Version: 1.7.1
+Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_17.0.113-1_iphoneos-arm.deb
-Size: 68522
+Filename: debs/com.gameinsight.gobios_1.7.1_iphoneos-arm.deb
+Size: 68270
 Installed-Size: 256
-MD5sum: 2dd79df77f6ce92b222e0fcaf7eba8ad
+MD5sum: 3e0fe11039d2ac8b13ee773f325e7b67
 Description: gob Mod Menu by nk!
-Name: gob Mod1
+Name: gob Mod 1
 Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.gameinsight.gobios
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.garena.game.fctw
 Version: 1.16
-Section: Tweaks
+Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.garena.game.fctw_1.16_iphoneos-arm.deb
-Size: 368312
+Filename: debs/speedd.deb
+Size: 388550
 Installed-Size: 644
-MD5sum: add0b15c49a2eb579a05d4296b7bad0d
+MD5sum: 3f3794bc7b407ed392d1e76ba151d252
 Description: speed mini boost no cooldown
 Name: speed drifters
 Author: nk
 Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder.fctw
 
 Package: com.nk-dump-ios
 Version: 1.0.1-1+debug
@@ -73,6 +73,19 @@ Description: unlock Premium
 Name: HotspotShield
 Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.hotspotshield
+
+Package: com.nkodder.mshooking
+Version: 0.1-1
+Section: System
+Maintainer: z2x22
+Architecture: iphoneos-arm
+Filename: debs/mshook.deb
+Size: 65172334
+MD5sum: ea9890870a9119eb54690e68648fbc8b
+Description: MsHook Credit z2x22
+Name: MsHooking
+Author: z2x22
+Depiction: 
 
 Package: com.nkodder.respring
 Version: 0.0.1-1+debug
