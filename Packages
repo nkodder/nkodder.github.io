@@ -117,15 +117,15 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.nkodder.youtubegods
-Version: 1.2-2
+Version: 1.3-1+debug
 Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/YoutubeGods.deb
-Size: 69384
-Installed-Size: 356
-MD5sum: f29f48d972274d520558a857b893eda3
+Filename: debs/com.nkodder.youtubegods_1.3-1+debug_iphoneos-arm.deb
+Size: 60134
+Installed-Size: 484
+MD5sum: cf6a824c698619d1a2a9b8e02669b4c2
 Description: no Ads• HD Video• play Background
 Name: YoutubeGods
 Author: nk
@@ -145,5 +145,19 @@ Description: Move speed x3
 Name: wwr Mod Menu
 Author: nk
 Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
+Package: com.yourcompany.flex3c
+Version: 0.0.1-1+debug
+Section: System
+Maintainer: nk
+Architecture: iphoneos-arm
+Filename: debs/com.yourcompany.flex3c_0.0.1-1+debug_iphoneos-arm.deb
+Size: 12834
+Installed-Size: 132
+MD5sum: 9e4d5e110d57d40ecf83e0869f044fc1
+Description: Flex3 Converter for ios 13
+Name: flex3c
+Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
