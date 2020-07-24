@@ -29,6 +29,22 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.fctw
 
+Package: com.garena.game.hdltw
+Version: 1.24
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.garena.game.hdltw_1.24_iphoneos-arm.deb
+Size: 368340
+Installed-Size: 644
+MD5sum: 7211a9e251d3bc20b096862eac6f9994
+Description: Ammo-skill no Cooldown
+Name: Contra Return
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: com.nk-dump-ios
 Version: 1.0.1-1+debug
 Section: System
