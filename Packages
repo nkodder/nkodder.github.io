@@ -1,13 +1,13 @@
 Package: com.gameinsight.gobios
-Version: 1.7.1
+Version: 17.2
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_1.7.1_iphoneos-arm.deb
-Size: 68270
+Filename: debs/com.gameinsight.gobios_17.2_iphoneos-arm.deb
+Size: 68212
 Installed-Size: 256
-MD5sum: 3e0fe11039d2ac8b13ee773f325e7b67
+MD5sum: 2749d9f0e69c605ae1fdbae0c1c9ba88
 Description: gob Mod Menu by nk!
 Name: gob Mod 1
 Author: nk
