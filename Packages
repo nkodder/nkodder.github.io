@@ -20,10 +20,10 @@ Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/gob18m1.deb
-Size: 68316
+Filename: debs/com.gameinsight.gobios_18.0_iphoneos-arm.deb
+Size: 68374
 Installed-Size: 256
-MD5sum: 81fd90901df4e92e556310609e798243
+MD5sum: 1e4b8b6f4bd8f33e66f7c124d076bb3d
 Description: gob Mod Menu by nk!
 Name: gob Mod 1
 Author: nk
