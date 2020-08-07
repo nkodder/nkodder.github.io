@@ -15,17 +15,17 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.gameinsight.gobios
-Version: 18.0-2
+Version: 18.0
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_18.0-2_iphoneos-arm.deb
-Size: 68258
+Filename: debs/com.gameinsight.gobios_18.0_iphoneos-arm.deb
+Size: 68374
 Installed-Size: 256
-MD5sum: f62f9f27c4b79bb66a956e1ac0931796
-Description: gob Mod2 for Vip only
-Name: gob Mod 2
+MD5sum: 1e4b8b6f4bd8f33e66f7c124d076bb3d
+Description: gob Mod Menu by nk!
+Name: gob Mod 1
 Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
