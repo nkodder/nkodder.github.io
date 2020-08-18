@@ -61,6 +61,21 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.fctw
 
+Package: com.mgrigorov.3dshooter
+Version: 1.2.38
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.mgrigorov.3dshooter_1.2.38_iphoneos-arm.deb
+Size: 368510
+Installed-Size: 644
+MD5sum: 53fdc8d16512c9ccd86e26032400a865
+Description: 3dShooter Mod Menu by nk!
+Name: 3dShooter Mod Menu
+Author: nk
+Homepage: 
+
 Package: com.nk-dump-ios
 Version: 1.0.1-1+debug
 Section: System
