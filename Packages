@@ -29,6 +29,21 @@ Name: deadbydaylight
 Author: nk
 Homepage: 
 
+Package: com.dts.freefireth
+Version: 1.52
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.dts.freefireth_1.52_iphoneos-arm.deb
+Size: 368930
+Installed-Size: 648
+MD5sum: 9455b7add50b73964a5e3f8cdfbbc617
+Description: free Mod Menu by nk!
+Name: free Mod Menu
+Author: nk
+Homepage: 
+
 Package: com.gameinsight.gobios
 Version: 18.1
 Section: Games
