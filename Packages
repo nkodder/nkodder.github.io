@@ -30,31 +30,31 @@ Author: nk
 Homepage: 
 
 Package: com.dts.freefireth
-Version: 1.52
+Version: 1.52-2
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.dts.freefireth_1.52_iphoneos-arm.deb
-Size: 368930
+Filename: debs/com.dts.freefireth_1.52-2_iphoneos-arm.deb
+Size: 369314
 Installed-Size: 648
-MD5sum: 9455b7add50b73964a5e3f8cdfbbc617
+MD5sum: f8f2eb00fb2807c3b6a847d9700e24e7
 Description: free Mod Menu by nk!
-Name: free Mod Menu
+Name: free fire
 Author: nk
 Homepage: 
 
 Package: com.gameinsight.gobios
-Version: 18.1
+Version: 18.1.124
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_18.1_iphoneos-arm.deb
-Size: 68284
+Filename: debs/com.gameinsight.gobios_18.1.124_iphoneos-arm.deb
+Size: 68350
 Installed-Size: 256
-MD5sum: 9e40d8ea6de00b6d8e8b95338ddcdc35
-Description: gob Mod2 for Vip only
+MD5sum: ceb44d243d605c274f57647692fd687e
+Description: gob Mod
 Name: gob Mod
 Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
