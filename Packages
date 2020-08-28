@@ -44,6 +44,21 @@ Name: free fire
 Author: nk
 Homepage: 
 
+Package: com.gameinsight.gobios
+Version: 18.1.124
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.gameinsight.gobios_18.1.124_iphoneos-arm.deb
+Size: 68350
+Installed-Size: 256
+MD5sum: ceb44d243d605c274f57647692fd687e
+Description: gob Mod
+Name: gob Mod
+Author: nk
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: com.garena.game.codm
 Version: 1.6.16
 Section: Games
