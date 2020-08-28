@@ -21,9 +21,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.bhvr.deadbydaylight_3.7.4-2_iphoneos-arm.deb
-Size: 368222
+Size: 368288
 Installed-Size: 644
-MD5sum: 06f4c9980ed8b939b327bfdef555c6e5
+MD5sum: 74e1e03044be3946d05535ef30b15482
 Description: dbdl Mod Menu by nk!
 Name: DeadbyDaylight
 Author: nk
@@ -43,21 +43,6 @@ Description: free Mod Menu by nk!
 Name: free fire
 Author: nk
 Homepage: 
-
-Package: com.gameinsight.gobios
-Version: 18.1.124
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_18.1.124_iphoneos-arm.deb
-Size: 68350
-Installed-Size: 256
-MD5sum: ceb44d243d605c274f57647692fd687e
-Description: gob Mod
-Name: gob Mod
-Author: nk
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.garena.game.codm
 Version: 1.6.16
