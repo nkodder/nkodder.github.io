@@ -44,6 +44,21 @@ Name: free fire
 Author: nk
 Homepage: 
 
+Package: com.gamedevltd.wwh
+Version: 1.22.5
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.gamedevltd.wwh_1.22.5_iphoneos-arm.deb
+Size: 369036
+Installed-Size: 648
+MD5sum: 43d972a0fcf7bd15b6c8d800ff1cfa7d
+Description: world war heroes Mod Menu by nk!
+Name: world war heroes
+Author: nk
+Homepage: 
+
 Package: com.gameinsight.gobios
 Version: 18.1.124
 Section: Games
