@@ -15,15 +15,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.bhvr.deadbydaylight
-Version: 3.7.4-4
+Version: 3.7.4-5
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.bhvr.deadbydaylight_3.7.4-4_iphoneos-arm.deb
-Size: 368290
+Filename: debs/com.bhvr.deadbydaylight_3.7.4-5_iphoneos-arm.deb
+Size: 368574
 Installed-Size: 644
-MD5sum: 3cf489a204807e356c90a5715983dd86
+MD5sum: 44719bee96e7cd6fd731c13d38c5bccf
 Description: dbdl Mod Menu by nk!
 Name: DeadbyDaylight
 Author: nk
@@ -105,21 +105,6 @@ Name: speed drifters
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.fctw
-
-Package: com.mgrigorov.3dshooter
-Version: 1.2.38
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.mgrigorov.3dshooter_1.2.38_iphoneos-arm.deb
-Size: 368510
-Installed-Size: 644
-MD5sum: 53fdc8d16512c9ccd86e26032400a865
-Description: 3dShooter Mod Menu by nk!
-Name: 3dShooter Mod Menu
-Author: nk
-Homepage: 
 
 Package: com.nk-dump-ios
 Version: 1.0.1-1+debug
