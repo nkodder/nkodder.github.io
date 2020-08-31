@@ -15,15 +15,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.bhvr.deadbydaylight
-Version: 3.7.4-3
+Version: 3.7.4-4
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.bhvr.deadbydaylight_3.7.4-3_iphoneos-arm.deb
-Size: 368350
+Filename: debs/com.bhvr.deadbydaylight_3.7.4-4_iphoneos-arm.deb
+Size: 368290
 Installed-Size: 644
-MD5sum: c512385ff964b21e20a948d43dab614a
+MD5sum: 3cf489a204807e356c90a5715983dd86
 Description: dbdl Mod Menu by nk!
 Name: DeadbyDaylight
 Author: nk
