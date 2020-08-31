@@ -1,13 +1,13 @@
 Package: com.axlebolt.standoff2
-Version: 0.13.6.p3
+Version: 0.13.6.p3-1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.axlebolt.standoff2_0.13.6.p3_iphoneos-arm.deb
-Size: 368874
+Filename: debs/com.axlebolt.standoff2_0.13.6.p3-1_iphoneos-arm.deb
+Size: 368876
 Installed-Size: 644
-MD5sum: 0d84e9ac5fcf44683a7e7e22eae236d6
+MD5sum: 30899ef36a7b4b8bad0caa078bca7a5c
 Description: standoff2 Mod Menu by nk!
 Name: standoff2 Mod Menu
 Author: nk
@@ -209,15 +209,15 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.nkodder.youtubegods
-Version: 1.3-1+debug
+Version: 1.4-1+debug
 Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.nkodder.youtubegods_1.3-1+debug_iphoneos-arm.deb
-Size: 60134
-Installed-Size: 484
-MD5sum: cf6a824c698619d1a2a9b8e02669b4c2
+Filename: debs/com.nkodder.youtubegods_1.4-1+debug_iphoneos-arm.deb
+Size: 23374
+Installed-Size: 200
+MD5sum: 14e2a88f1e29bd65c6f6b52c073cd487
 Description: no Ads• HD Video• play Background
 Name: YoutubeGods
 Author: nk
