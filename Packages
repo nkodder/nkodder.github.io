@@ -29,6 +29,21 @@ Name: DeadbyDaylight
 Author: nk
 Homepage: 
 
+Package: com.blitzteam.blitzops
+Version: 5.1
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.blitzteam.blitzops_5.1_iphoneos-arm.deb
+Size: 368404
+Installed-Size: 644
+MD5sum: 1c955be81a7c54211dd279c17084e29b
+Description: blitzops Mod Menu by nk!
+Name: battle Prime
+Author: nk
+Homepage: 
+
 Package: com.dts.freefireth
 Version: 1.52-2
 Section: Games
