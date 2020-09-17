@@ -75,15 +75,15 @@ Author: nk
 Homepage: 
 
 Package: com.gameinsight.gobios
-Version: 18.2.130
+Version: 19.0.131
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_18.2.130_iphoneos-arm.deb
-Size: 68364
+Filename: debs/com.gameinsight.gobios_19.0.131_iphoneos-arm.deb
+Size: 68384
 Installed-Size: 256
-MD5sum: 4de7e7fdddcc677d8baf3f14a46082bf
+MD5sum: f1b532c9771c67d5275555e13455f135
 Description: gob Mod
 Name: gob Mod
 Author: nk
@@ -120,6 +120,21 @@ Name: speed drifters
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.fctw
+
+Package: com.mgrigorov.3dshooter
+Version: 1.2.40
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.mgrigorov.3dshooter_1.2.40_iphoneos-arm.deb
+Size: 368548
+Installed-Size: 644
+MD5sum: bf1e21ed440230e9f171f4e0f4e06426
+Description: 3dShooter Mod Menu by nk!
+Name: Counter attack
+Author: nk
+Homepage: 
 
 Package: com.nk-dump-ios
 Version: 1.0.1-1+debug
@@ -224,17 +239,17 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.youtubegods
 
 Package: com.pixonic.wwr
-Version: 6.3
+Version: 6.3.1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.3_iphoneos-arm.deb
-Size: 104078
+Filename: debs/com.pixonic.wwr_6.3.1_iphoneos-arm.deb
+Size: 105136
 Installed-Size: 512
-MD5sum: 2bbf92162159df71c5fa5760f77e4c5a
+MD5sum: 0b90254a4758c1c9f5a063a0714ae122
 Description: Move speed x3
-Name: wwr Mod Menu
+Name: War Robots
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.wwr
