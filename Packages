@@ -89,22 +89,6 @@ Name: gob Mod
 Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
-Package: com.garena.game.codm
-Version: 1.6.16
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.garena.game.codm_1.6.16_iphoneos-arm.deb
-Size: 368302
-Installed-Size: 644
-MD5sum: 15d60bd3dfcd05f7fcf5608be1af5556
-Description: codm Mod Menu by nk!
-Name: codm Mod Menu
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
 Package: com.garena.game.fctw
 Version: 1.16
 Section: Games
