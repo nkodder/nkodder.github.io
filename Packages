@@ -30,17 +30,32 @@ Author: nk
 Homepage: 
 
 Package: com.blitzteam.blitzops
-Version: 5.1
+Version: 5.2
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.blitzteam.blitzops_5.1_iphoneos-arm.deb
-Size: 368404
-Installed-Size: 644
-MD5sum: 1c955be81a7c54211dd279c17084e29b
+Filename: debs/com.blitzteam.blitzops_5.2_iphoneos-arm.deb
+Size: 402468
+Installed-Size: 1268
+MD5sum: 942b58dab05d106a160c18546a97f856
 Description: blitzops Mod Menu by nk!
 Name: battle Prime
+Author: nk
+Homepage: 
+
+Package: com.dle.brutalblade
+Version: 2.3
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.dle.brutalblade_2.3_iphoneos-arm.deb
+Size: 400282
+Installed-Size: 1268
+MD5sum: ecb3bd6a7c336b662d880d22896f3e52
+Description: Unlimited Ammo/no reload
+Name: Respawnables Heroes
 Author: nk
 Homepage: 
 
