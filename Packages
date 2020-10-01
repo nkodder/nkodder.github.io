@@ -60,16 +60,16 @@ Author: nk
 Homepage: 
 
 Package: com.dts.freefireth
-Version: 1.53.2
+Version: 0.0
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.dts.freefireth_1.53.2_iphoneos-arm.deb
-Size: 369184
-Installed-Size: 648
-MD5sum: 0d36966bef6c592b9be10bb3ceb3c7c2
-Description: free Mod Menu by nk!
+Filename: debs/com.dts.freefireth_0.0_iphoneos-arm.deb
+Size: 402034
+Installed-Size: 1284
+MD5sum: a53e0888e605832d62082389878f71ba
+Description: Chams All version!
 Name: freefire
 Author: nk
 Homepage: 
@@ -90,17 +90,17 @@ Author: nk
 Homepage: 
 
 Package: com.gameinsight.gobios
-Version: 19.0.131
+Version: 19.1.134
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_19.0.131_iphoneos-arm.deb
-Size: 68384
-Installed-Size: 256
-MD5sum: f1b532c9771c67d5275555e13455f135
+Filename: debs/com.gameinsight.gobios_19.1.134_iphoneos-arm.deb
+Size: 103726
+Installed-Size: 512
+MD5sum: 5fabee86e63c9105756ed7b4cf7417d4
 Description: gob Mod
-Name: gob Mod
+Name: Gods of boom
 Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
@@ -127,9 +127,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.mgrigorov.3dshooter_1.2.40_iphoneos-arm.deb
-Size: 368548
-Installed-Size: 644
-MD5sum: bf1e21ed440230e9f171f4e0f4e06426
+Size: 409000
+Installed-Size: 1268
+MD5sum: f6e389e1b77e51d69e955c78f26d4c75
 Description: 3dShooter Mod Menu by nk!
 Name: Counter attack
 Author: nk
