@@ -60,17 +60,17 @@ Author: nk
 Homepage: 
 
 Package: com.dts.freefireth
-Version: 0.0
+Version: 1.0
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.dts.freefireth_0.0_iphoneos-arm.deb
-Size: 402034
-Installed-Size: 1284
-MD5sum: a53e0888e605832d62082389878f71ba
-Description: Chams All version!
-Name: freefire
+Filename: debs/com.dts.freefireth_1.0_iphoneos-arm.deb
+Size: 405624
+Installed-Size: 1316
+MD5sum: 02d4d1d3e956e4d197dc928cf56b12ed
+Description: Chams all version!
+Name: freefireth
 Author: nk
 Homepage: 
 
