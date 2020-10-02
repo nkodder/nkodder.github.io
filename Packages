@@ -75,17 +75,17 @@ Author: nk
 Homepage: 
 
 Package: com.gamedevltd.wwh
-Version: 1.22.6
+Version: 1.22.6-1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gamedevltd.wwh_1.22.6_iphoneos-arm.deb
-Size: 369388
-Installed-Size: 648
-MD5sum: e307b6580a751644aa34cc0c7d192599
-Description: world war heroes Mod Menu by nk!
-Name: world war heroes
+Filename: debs/com.gamedevltd.wwh_1.22.6-1_iphoneos-arm.deb
+Size: 405380
+Installed-Size: 1300
+MD5sum: 6a58125b61439a2499b1f0df8c5b01f5
+Description: wwh Mod Menu by nk!
+Name: World War Heroes
 Author: nk
 Homepage: 
 
