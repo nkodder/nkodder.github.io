@@ -104,22 +104,6 @@ Name: Gods of boom
 Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
-Package: com.garena.game.fctw
-Version: 1.16
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/speedd.deb
-Size: 388550
-Installed-Size: 644
-MD5sum: 3f3794bc7b407ed392d1e76ba151d252
-Description: speed mini boost no cooldown
-Name: speed drifters
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder.fctw
-
 Package: com.mgrigorov.3dshooter
 Version: 1.2.40
 Section: Games
@@ -222,36 +206,20 @@ Name: Working Copy
 Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
-Package: com.nkodder.youtubegods
-Version: 1.4-1-1+debug
-Section: Tweaks
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.nkodder.youtubegods_1.4-1-1+debug_iphoneos-arm.deb
-Size: 13204
-Installed-Size: 164
-MD5sum: 1e312636be33175cc9733381b72c1a9b
-Description: no Ads• play Background
-Name: YoutubeGods
-Author: nk
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder.youtubegods
-
 Package: com.pixonic.wwr
-Version: 6.3.2
+Version: 6.4.6
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.3.2_iphoneos-arm.deb
-Size: 104012
-Installed-Size: 512
-MD5sum: b1a1507db94df01c5dfb1116ab92b177
-Description: Move speed x3
+Filename: debs/com.pixonic.wwr_6.4.6_iphoneos-arm.deb
+Size: 368544
+Installed-Size: 648
+MD5sum: 5264dcd7257035f8aa168b6956ebb36c
+Description: war robots Mod Menu by nk!
 Name: War Robots
 Author: nk
 Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder.wwr
 
 Package: com.yourcompany.flex3c
 Version: 0.0.1-1+debug
