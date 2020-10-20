@@ -15,15 +15,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.bhvr.deadbydaylight
-Version: 3.7.4.1-1
+Version: 4.2
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.bhvr.deadbydaylight_3.7.4.1-1_iphoneos-arm.deb
-Size: 368398
-Installed-Size: 644
-MD5sum: 43e0c62bb7d74521b0c9d9c6f89a7ebb
+Filename: debs/com.bhvr.deadbydaylight_4.2_iphoneos-arm.deb
+Size: 409166
+Installed-Size: 1268
+MD5sum: 8f6b0eb463b6328bc8390afdf12372d1
 Description: dbdl Mod Menu by nk!
 Name: DeadbyDaylight
 Author: nk
@@ -90,15 +90,15 @@ Author: nk
 Homepage: 
 
 Package: com.gameinsight.gobios
-Version: 19.2
+Version: 19.2.140
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_19.2_iphoneos-arm.deb
-Size: 103802
+Filename: debs/com.gameinsight.gobios_19.2.140_iphoneos-arm.deb
+Size: 104216
 Installed-Size: 512
-MD5sum: 023a547f013f9688947ec6e2683066ac
+MD5sum: 2b6bd48a85d1a630d1a3cedc3abdb103
 Description: gob Mod
 Name: Gods of boom
 Author: nk
