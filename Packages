@@ -44,21 +44,6 @@ Name: battle Prime
 Author: nk
 Homepage: 
 
-Package: com.dle.brutalblade
-Version: 2.3
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.dle.brutalblade_2.3_iphoneos-arm.deb
-Size: 400282
-Installed-Size: 1268
-MD5sum: ecb3bd6a7c336b662d880d22896f3e52
-Description: Unlimited Ammo/no reload
-Name: Respawnables Heroes
-Author: nk
-Homepage: 
-
 Package: com.dts.freefireth
 Version: 1.0-1
 Section: Games
@@ -207,15 +192,15 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.pixonic.wwr
-Version: 6.4.6
+Version: 6.4.7
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.4.6_iphoneos-arm.deb
-Size: 368544
+Filename: debs/com.pixonic.wwr_6.4.7_iphoneos-arm.deb
+Size: 368580
 Installed-Size: 648
-MD5sum: 5264dcd7257035f8aa168b6956ebb36c
+MD5sum: 240a4ff45c567abfa6d6d3caedcb3593
 Description: war robots Mod Menu by nk!
 Name: War Robots
 Author: nk
