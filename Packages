@@ -60,15 +60,15 @@ Author: nk
 Homepage: 
 
 Package: com.gamedevltd.wwh
-Version: 1.22.6-1
+Version: 1.23.2
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gamedevltd.wwh_1.22.6-1_iphoneos-arm.deb
-Size: 405380
-Installed-Size: 1300
-MD5sum: 6a58125b61439a2499b1f0df8c5b01f5
+Filename: debs/com.gamedevltd.wwh_1.23.2_iphoneos-arm.deb
+Size: 409990
+Installed-Size: 1284
+MD5sum: 9b83ca7a6bf8e29599069096fcf61c9f
 Description: wwh Mod Menu by nk!
 Name: World War Heroes
 Author: nk
@@ -192,15 +192,15 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.pixonic.wwr
-Version: 6.4.7-1
+Version: 6.6
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.4.7-1_iphoneos-arm.deb
-Size: 368676
+Filename: debs/com.pixonic.wwr_6.6_iphoneos-arm.deb
+Size: 368860
 Installed-Size: 648
-MD5sum: ac38047ac5c8921ae889038ec2968d6e
+MD5sum: 3c617fb184a6cffd895311278fcc2f0f
 Description: war robots Mod Menu by nk!
 Name: War Robots
 Author: nk
