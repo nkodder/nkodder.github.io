@@ -207,19 +207,20 @@ Author: nk
 Homepage: 
 
 Package: com.roblox.robloxmobile
-Version: 2.454
+Version: 2.455
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.roblox.robloxmobile_2.454_iphoneos-arm.deb
-Size: 368230
+Filename: debs/com.roblox.robloxmobile_2.455_iphoneos-arm.deb
+Size: 368458
 Installed-Size: 644
-MD5sum: fab98866f44409a3e16f53a088f1f6a9
+MD5sum: 32f5a96ea42fd148b016528ec2b37e1f
 Description: walk through wall/walk on air/High jump
 Name: Roblox
 Author: nk
 Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.yourcompany.flex3c
 Version: 0.0.1-1+debug
@@ -233,5 +234,21 @@ MD5sum: 9e4d5e110d57d40ecf83e0869f044fc1
 Description: Flex3 Converter for ios 13
 Name: flex3c
 Author: nk
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
+Package: lol.onevone
+Version: 1.4.0
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/lol.onevone_1.4.0_iphoneos-arm.deb
+Size: 368316
+Installed-Size: 644
+MD5sum: c71976dc181bfbe172cb5b4f733c3507
+Description: 1x1 Mod Menu by nk!
+Name: 1v1.lol
+Author: nk
+Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
