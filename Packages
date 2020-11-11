@@ -75,15 +75,15 @@ Author: nk
 Homepage: 
 
 Package: com.gameinsight.gobios
-Version: 20.0.142
+Version: 20.1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_20.0.142_iphoneos-arm.deb
-Size: 104528
+Filename: debs/com.gameinsight.gobios_20.1_iphoneos-arm.deb
+Size: 104092
 Installed-Size: 512
-MD5sum: 075623253db91f84ed93a9caacb955df
+MD5sum: ef42b2cdde6d69d9d7ef2c81b0e1c543
 Description: gob Mod
 Name: Gods of boom
 Author: nk
