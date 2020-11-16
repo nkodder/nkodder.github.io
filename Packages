@@ -192,15 +192,15 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.pixonic.wwr
-Version: 6.6.1
+Version: 6.6.2
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.6.1_iphoneos-arm.deb
-Size: 368766
+Filename: debs/com.pixonic.wwr_6.6.2_iphoneos-arm.deb
+Size: 368706
 Installed-Size: 648
-MD5sum: f0c9c3723b67ca51ba95ae6449889afd
+MD5sum: d0e3761804b64997e7a96b71586e186b
 Description: war robots Mod Menu by nk!
 Name: War Robots
 Author: nk
@@ -235,21 +235,5 @@ MD5sum: 9e4d5e110d57d40ecf83e0869f044fc1
 Description: Flex3 Converter for ios 13
 Name: flex3c
 Author: nk
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
-Package: lol.onevone
-Version: 1.4.0
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/lol.onevone_1.4.0_iphoneos-arm.deb
-Size: 368316
-Installed-Size: 644
-MD5sum: c71976dc181bfbe172cb5b4f733c3507
-Description: 1x1 Mod Menu by nk!
-Name: 1v1.lol
-Author: nk
-Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
