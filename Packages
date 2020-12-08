@@ -30,15 +30,15 @@ Author: nk
 Homepage: 
 
 Package: com.blitzteam.blitzops
-Version: 6.0.1
+Version: 6.0.2
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.blitzteam.blitzops_6.0.1_iphoneos-arm.deb
-Size: 401802
+Filename: debs/com.blitzteam.blitzops_6.0.2_iphoneos-arm.deb
+Size: 401610
 Installed-Size: 1268
-MD5sum: 25ac2d09ba97735a040264ce41c699c2
+MD5sum: 9b1ab871c47a3387070f7fd647c198da
 Description: blitzops Mod Menu by nk!
 Name: battle Prime
 Author: nk
@@ -74,21 +74,6 @@ Description: wwh Mod Menu by nk!
 Name: World War Heroes
 Author: nk
 Homepage: 
-
-Package: com.gameinsight.gobios
-Version: 20.1
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_20.1_iphoneos-arm.deb
-Size: 104092
-Installed-Size: 512
-MD5sum: ef42b2cdde6d69d9d7ef2c81b0e1c543
-Description: gob Mod
-Name: Gods of boom
-Author: nk
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.nk.homex
 Version: 1.5-4-1+debug
@@ -148,15 +133,15 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.pixonic.wwr
-Version: 6.6.2
+Version: 6.7
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.6.2_iphoneos-arm.deb
-Size: 368706
+Filename: debs/com.pixonic.wwr_6.7_iphoneos-arm.deb
+Size: 368932
 Installed-Size: 648
-MD5sum: d0e3761804b64997e7a96b71586e186b
+MD5sum: 02f98a8289833c020a13d3ed86012d4b
 Description: war robots Mod Menu by nk!
 Name: War Robots
 Author: nk
