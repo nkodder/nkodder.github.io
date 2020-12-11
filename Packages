@@ -134,33 +134,17 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.pixonic.wwr
-Version: 6.7
+Version: 6.7.1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.7_iphoneos-arm.deb
-Size: 368932
+Filename: debs/com.pixonic.wwr_6.7.1_iphoneos-arm.deb
+Size: 368686
 Installed-Size: 648
-MD5sum: 02f98a8289833c020a13d3ed86012d4b
+MD5sum: b3a0d3c8ebf66f662bc43c08024e5c76
 Description: war robots Mod Menu by nk!
 Name: War Robots
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
-Package: com.roblox.robloxmobile
-Version: 2.455
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.roblox.robloxmobile_2.455_iphoneos-arm.deb
-Size: 368458
-Installed-Size: 644
-MD5sum: 32f5a96ea42fd148b016528ec2b37e1f
-Description: walk through wall/walk on air/High jump
-Name: Roblox
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
