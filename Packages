@@ -15,15 +15,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.bhvr.deadbydaylight
-Version: 4.3
+Version: 4.3.1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.bhvr.deadbydaylight_4.3_iphoneos-arm.deb
-Size: 402520
+Filename: debs/com.bhvr.deadbydaylight_4.3.1_iphoneos-arm.deb
+Size: 408916
 Installed-Size: 1268
-MD5sum: 8fdc09e1d22c9809aeb9fb050d4909ae
+MD5sum: 57eb702f6ef3b5b31e5202c1371d9bda
 Description: dbdl Mod Menu by nk!
 Name: DeadbyDaylight
 Author: nk
@@ -31,15 +31,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.blitzteam.blitzops
-Version: 6.0.2
+Version: 6.1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.blitzteam.blitzops_6.0.2_iphoneos-arm.deb
-Size: 401610
+Filename: debs/com.blitzteam.blitzops_6.1_iphoneos-arm.deb
+Size: 401942
 Installed-Size: 1268
-MD5sum: 9b1ab871c47a3387070f7fd647c198da
+MD5sum: b1c6f972326e27826857ac3d9f1d3b0a
 Description: blitzops Mod Menu by nk!
 Name: battle Prime
 Author: nk
@@ -62,19 +62,20 @@ Author: nk
 Homepage: 
 
 Package: com.gamedevltd.wwh
-Version: 1.23.2
+Version: 1.24
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gamedevltd.wwh_1.23.2_iphoneos-arm.deb
-Size: 409990
-Installed-Size: 1284
-MD5sum: 9b83ca7a6bf8e29599069096fcf61c9f
+Filename: debs/com.gamedevltd.wwh_1.24_iphoneos-arm.deb
+Size: 402120
+Installed-Size: 1268
+MD5sum: e45fafb3f421e7d3ca64644517a12ece
 Description: wwh Mod Menu by nk!
 Name: World War Heroes
 Author: nk
 Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.nk.homex
 Version: 1.5-4-1+debug
