@@ -1,13 +1,13 @@
 Package: com.axlebolt.standoff2
-Version: 0.14.2-p2
+Version: 0.14.5
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.axlebolt.standoff2_0.14.2-p2_iphoneos-arm.deb
-Size: 401148
+Filename: debs/com.axlebolt.standoff2_0.14.5_iphoneos-arm.deb
+Size: 401296
 Installed-Size: 1268
-MD5sum: f34384033f7c5c2bd37b3908ac865492
+MD5sum: 555f4fd992656405b479785ef25d8693
 Description: standoff2 Mod Menu by nk!
 Name: standoff2
 Author: nk
