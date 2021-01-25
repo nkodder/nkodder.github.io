@@ -14,22 +14,6 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
-Package: com.blitzteam.blitzops
-Version: 6.1.1
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.blitzteam.blitzops_6.1.1_iphoneos-arm.deb
-Size: 401168
-Installed-Size: 1268
-MD5sum: 3fc5939e996ea7cf565088e5e2242665
-Description: blitzops Mod Menu by nk!
-Name: battle Prime
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
 Package: com.dts.freefireth
 Version: 1.0-1
 Section: Games
@@ -119,15 +103,15 @@ Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.pixonic.wwr
-Version: 6.7.6
+Version: 6.7.6-1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/wwr676-m1.deb
-Size: 380870
-Installed-Size: 648
-MD5sum: 917878ead158aa94149fddaae7ccce35
+Filename: debs/com.pixonic.wwr_6.7.6-1_iphoneos-arm.deb
+Size: 369270
+Installed-Size: 644
+MD5sum: 767b5dbd29eea0f30225974edb81bcea
 Description: war robots Mod Menu by nk!
 Name: War Robots
 Author: nk
