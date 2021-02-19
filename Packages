@@ -68,13 +68,14 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.garena.game.kgth_1.38_iphoneos-arm.deb
-Size: 368644
+Size: 368582
 Installed-Size: 644
-MD5sum: 3b428bda5faa16d5a703255a9aad6bb8
+MD5sum: a05631eda3335e7e40a52e962b6b17f1
 Description: rov Mod Menu by nk!
-Name: rov Mod Menu
+Name: Garena RoV
 Author: nk
 Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.nk.homex
 Version: 1.5-4-1+debug
