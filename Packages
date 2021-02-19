@@ -63,14 +63,14 @@ Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.garena.game.kgth
 Version: 1.38
-Section: Tweaks
+Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.garena.game.kgth_1.38_iphoneos-arm.deb
-Size: 368804
+Size: 368644
 Installed-Size: 644
-MD5sum: 05972b690d98bfa83b6417f3dddbd160
+MD5sum: 3b428bda5faa16d5a703255a9aad6bb8
 Description: rov Mod Menu by nk!
 Name: rov Mod Menu
 Author: nk
