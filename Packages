@@ -5,9 +5,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.bhvr.deadbydaylight_4.4.0.2_iphoneos-arm.deb
-Size: 403612
+Size: 401748
 Installed-Size: 1268
-MD5sum: b44e43c82aee7dc9023b3f44081b6ce9
+MD5sum: c8215070c82af6f6b42d0bac6a8eed1c
 Description: dbdl Mod Menu by nk!
 Name: DeadbyDaylight
 Author: nk
