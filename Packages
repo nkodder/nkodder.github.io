@@ -37,10 +37,10 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.dts.freefireth_1.59.1_iphoneos-arm.deb
-Size: 402046
+Size: 401934
 Installed-Size: 1284
-MD5sum: 832e6dee957df77bda1adfa7362899ac
-Description: Chams all version!
+MD5sum: 1287dac3a036ee99a2a150f93fa0dd9c
+Description: Chams / Fov!
 Name: Garena Free Fire
 Author: nk
 Homepage: 
