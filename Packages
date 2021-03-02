@@ -78,6 +78,22 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
+Package: com.igg.ios.omegalegends
+Version: 1.0.76
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.igg.ios.omegalegends_1.0.76_iphoneos-arm.deb
+Size: 405880
+Installed-Size: 1300
+MD5sum: 168d6eda9c9a7c408a34f95b685c5d39
+Description: omega Mod Menu by nk!
+Name: Omega Legends
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: com.ngame.allstar.eu
 Version: 1.38.1.3
 Section: Games
