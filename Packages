@@ -15,16 +15,16 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.blitzteam.blitzops
-Version: 7.0
+Version: 7.1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.blitzteam.blitzops_7.0_iphoneos-arm.deb
-Size: 401474
-Installed-Size: 1268
-MD5sum: 46b93f828b7f00d3152a3338f22e0e48
-Description: blitzops Mod Menu by nk!
+Filename: debs/com.blitzteam.blitzops_7.1_iphoneos-arm.deb
+Size: 368428
+Installed-Size: 644
+MD5sum: fb2fade97b6bcdaaa56a585af0bf998d
+Description: Battle Prime Mod Menu by nk!
 Name: Battle Prime
 Author: nk
 Homepage: 
@@ -123,34 +123,6 @@ MD5sum: 95b87f28b5fb7793fac8ec85fc01c140
 Description: Enable iPhone X on se 2020 Hide barX,lock no Flashlight,camera
 Name: HomeGesture for Se2020
 Author: nk
-
-Package: com.nkodder.mshooking
-Version: 0.1-1
-Section: System
-Maintainer: z2x22
-Architecture: iphoneos-arm
-Filename: debs/mshook.deb
-Size: 65172166
-MD5sum: d31ed37e6632242191f9903b1eb6b7f0
-Description: MsHook Credit z2x22
-Name: MsHooking
-Author: z2x22
-Depiction: 
-
-Package: com.nkodder.workingcopy
-Version: 0.0.1-1-1+debug
-Section: Tweaks
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.nkodder.workingcopy_0.0.1-1-1+debug_iphoneos-arm.deb
-Size: 8578
-Installed-Size: 112
-MD5sum: 05984d6b9e7364f7eb3811922abd363e
-Description: Unlock Premium
-Name: Working Copy
-Author: nk
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder.workingcopy
 
 Package: com.pixonic.wwr
 Version: 6.8.1
