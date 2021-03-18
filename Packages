@@ -63,19 +63,18 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.garena.game.kgth
-Version: 1.38
+Version: 1.39
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.garena.game.kgth_1.38_iphoneos-arm.deb
-Size: 368582
+Filename: debs/com.garena.game.kgth_1.39_iphoneos-arm.deb
+Size: 368500
 Installed-Size: 644
-MD5sum: a05631eda3335e7e40a52e962b6b17f1
+MD5sum: a14ff7db98b16ed96e9b9065e6fc2ac4
 Description: rov Mod Menu by nk!
-Name: Garena RoV
+Name: Garena Rov
 Author: nk
-Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.igg.ios.omegalegends
