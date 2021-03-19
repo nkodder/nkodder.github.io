@@ -93,6 +93,21 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
+Package: com.muglife.muglife
+Version: 2.0.82
+Section: Tweak
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.muglife.muglife_2.0.82_iphoneos-arm.deb
+Size: 368474
+Installed-Size: 644
+MD5sum: 810ebffbfce561803ee33cae324e3314
+Description: Unlock all!
+Name: Mug Life
+Author: nk
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: com.ngame.allstar.eu
 Version: 1.38.1.3
 Section: Games
