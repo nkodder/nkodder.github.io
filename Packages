@@ -141,3 +141,18 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
+Package: com.tocaboca.tocalifeworld
+Version: 1.31
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.tocaboca.tocalifeworld_1.31_iphoneos-arm.deb
+Size: 368502
+Installed-Size: 644
+MD5sum: fba96b2963efb55a7945730a34d552ee
+Description: toca Mod Menu by nk!
+Name: Toca World
+Author: nk
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
