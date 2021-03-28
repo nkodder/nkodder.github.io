@@ -1,18 +1,17 @@
 Package: com.bhvr.deadbydaylight
-Version: 4.4.0.2
+Version: 4.4.1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.bhvr.deadbydaylight_4.4.0.2_iphoneos-arm.deb
-Size: 401748
-Installed-Size: 1268
-MD5sum: c8215070c82af6f6b42d0bac6a8eed1c
-Description: dbdl Mod Menu by nk!
-Name: DeadbyDaylight
+Filename: debs/com.bhvr.deadbydaylight_4.4.1_iphoneos-arm.deb
+Size: 368670
+Installed-Size: 644
+MD5sum: 5211b1fb3564203a4e770eff3222170a
+Description: DeadByDaylight Mod Menu by nk!
+Name: DeadByDaylight
 Author: nk
 Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.blitzteam.blitzops
 Version: 7.1
