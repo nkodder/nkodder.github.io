@@ -93,15 +93,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.pixonic.wwr
-Version: 6.8.1
+Version: 6.9.0
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.8.1_iphoneos-arm.deb
-Size: 369146
+Filename: debs/com.pixonic.wwr_6.9.0_iphoneos-arm.deb
+Size: 369244
 Installed-Size: 644
-MD5sum: fd85bf569c06bdf5da7e024be2198eee
+MD5sum: 27dc441f282ae7e5f1b195263d6f48dd
 Description: war robots Mod Menu by nk!
 Name: War Robots
 Author: nk
