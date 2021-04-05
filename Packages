@@ -5,9 +5,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.bhvr.deadbydaylight_4.4.1_iphoneos-arm.deb
-Size: 368670
+Size: 367788
 Installed-Size: 644
-MD5sum: 5211b1fb3564203a4e770eff3222170a
+MD5sum: ca5478900544dbcd078c9707bd71014d
 Description: DeadByDaylight Mod Menu by nk!
 Name: DeadByDaylight
 Author: nk
@@ -20,9 +20,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.blitzteam.blitzops_7.1_iphoneos-arm.deb
-Size: 368428
+Size: 367628
 Installed-Size: 644
-MD5sum: fb2fade97b6bcdaaa56a585af0bf998d
+MD5sum: e9baf3715e3ed8e6915de1128558d2ad
 Description: Battle Prime Mod Menu by nk!
 Name: Battle Prime
 Author: nk
@@ -31,19 +31,18 @@ Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.dts.freefireth
 Version: 1.59.1
-Section: Games
+Section: Tweaks
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.dts.freefireth_1.59.1_iphoneos-arm.deb
-Size: 401934
-Installed-Size: 1284
-MD5sum: 1287dac3a036ee99a2a150f93fa0dd9c
-Description: Chams / Fov!
-Name: Garena Free Fire
+Size: 368892
+Installed-Size: 648
+MD5sum: ae74fb70f028cf864531c19ce0a4b351
+Description: Free Fire Mod Menu by nk!
+Name: Free Fire Mod Menu
 Author: nk
 Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.gamedevltd.wwh
 Version: 1.25.2
@@ -52,9 +51,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.gamedevltd.wwh_1.25.2_iphoneos-arm.deb
-Size: 401284
-Installed-Size: 1268
-MD5sum: dade9e7d77fd7bf522d89b096c1a079d
+Size: 405474
+Installed-Size: 1284
+MD5sum: dcfc191ee81653bf675a003abc24e252
 Description: wwh Mod Menu by nk!
 Name: World War Heroes
 Author: nk
@@ -68,9 +67,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.garena.game.kgth_1.39_iphoneos-arm.deb
-Size: 368500
+Size: 367682
 Installed-Size: 644
-MD5sum: a14ff7db98b16ed96e9b9065e6fc2ac4
+MD5sum: 692d7d61b4564e9d2bc7f929eb582b73
 Description: rov Mod Menu by nk!
 Name: Garena Rov
 Author: nk
@@ -83,9 +82,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.igg.ios.omegalegends_1.0.77_iphoneos-arm.deb
-Size: 409592
+Size: 401538
 Installed-Size: 1268
-MD5sum: 897f7efcdd916298e2366ac5209755c5
+MD5sum: b4928dd11f3435ce986d9904feaab027
 Description: omega Mod Menu by nk!
 Name: Omega Legends
 Author: nk
@@ -99,9 +98,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.pixonic.wwr_6.9.0_iphoneos-arm.deb
-Size: 369244
+Size: 368296
 Installed-Size: 644
-MD5sum: 27dc441f282ae7e5f1b195263d6f48dd
+MD5sum: a950c3a1a9203d694de92dab1f65cf1a
 Description: war robots Mod Menu by nk!
 Name: War Robots
 Author: nk
@@ -115,9 +114,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.riotgames.league.wildrift_4027_iphoneos-arm.deb
-Size: 368758
+Size: 367958
 Installed-Size: 644
-MD5sum: f99ded5b819a02206c203a77eef1c21d
+MD5sum: 7c8dd04d58547b309ff87f86ea7483ce
 Description: wildrift Mod Menu by nk!
 Name: Wild Rift
 Author: nk
