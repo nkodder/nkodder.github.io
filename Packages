@@ -31,16 +31,16 @@ Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.dts.freefireth
 Version: 1.59.1
-Section: Tweaks
+Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.dts.freefireth_1.59.1_iphoneos-arm.deb
-Size: 368892
+Size: 368790
 Installed-Size: 648
-MD5sum: ae74fb70f028cf864531c19ce0a4b351
+MD5sum: 5249729150933ef7edf7ced6cfcd3c90
 Description: Free Fire Mod Menu by nk!
-Name: Free Fire Mod Menu
+Name: Garena Free Fire
 Author: nk
 Homepage: 
 
