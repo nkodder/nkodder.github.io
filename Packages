@@ -123,3 +123,17 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
+Package: net.jakeashacks.theosinstaller2
+Version: 1.0.2-1
+Section: System
+Maintainer: Jake James
+Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl
+Conflicts: net.howett.theos
+Architecture: iphoneos-arm
+Filename: debs/installtheos.deb
+Size: 2234
+MD5sum: 6746e5d3e682d9578b03fbdfeb59b9c2
+Description: Install theos and setup everything you need with one click! Works on iOS 13,14 unc0ver and checkra1n. Supports compiling arm64e. Usage (run as root): theosinstaller sdk_version_here (example: theosinstaller 12.4)
+Name: Theos Installer 2 (unc0ver and checkra1n)
+Author: Jake James
+
