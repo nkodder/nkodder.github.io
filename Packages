@@ -107,19 +107,3 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
-Package: com.riotgames.league.wildrift
-Version: 4027
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.riotgames.league.wildrift_4027_iphoneos-arm.deb
-Size: 367958
-Installed-Size: 644
-MD5sum: 7c8dd04d58547b309ff87f86ea7483ce
-Description: wildrift Mod Menu by nk!
-Name: Wild Rift
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
