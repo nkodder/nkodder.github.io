@@ -4,10 +4,10 @@ Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.bhvr.deadbydaylight_4.4.1_iphoneos-arm.deb
-Size: 367788
+Filename: debs/deadbydaylight_4.4.1e.deb
+Size: 367868
 Installed-Size: 644
-MD5sum: ca5478900544dbcd078c9707bd71014d
+MD5sum: 68d7502c88fcced37be8e9e026b46739
 Description: DeadByDaylight Mod Menu by nk!
 Name: DeadByDaylight
 Author: nk
@@ -45,15 +45,15 @@ Author: nk
 Homepage: 
 
 Package: com.gamedevltd.wwh
-Version: 1.25.2
+Version: 1.26
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gamedevltd.wwh_1.25.2_iphoneos-arm.deb
-Size: 405474
-Installed-Size: 1284
-MD5sum: dcfc191ee81653bf675a003abc24e252
+Filename: debs/wwh_1.26_-e.deb
+Size: 400140
+Installed-Size: 1268
+MD5sum: f14c13ea8a8d96676f1fd50b6a710146
 Description: wwh Mod Menu by nk!
 Name: World War Heroes
 Author: nk
@@ -92,33 +92,18 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.pixonic.wwr
-Version: 6.9.0
+Version: 6.9.6
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_6.9.0_iphoneos-arm.deb
-Size: 368296
-Installed-Size: 644
-MD5sum: a950c3a1a9203d694de92dab1f65cf1a
+Filename: debs/wwr_6.9.6_e-arm.deb
+Size: 399580
+Installed-Size: 1268
+MD5sum: c6013b546f7edf666457e3e350ec5cf8
 Description: war robots Mod Menu by nk!
 Name: War Robots
 Author: nk
 Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
-Package: com.tocaboca.tocalifeworld
-Version: 1.32
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.tocaboca.tocalifeworld_1.32_iphoneos-arm.deb
-Size: 368898
-Installed-Size: 644
-MD5sum: 06f965b7324c3df338e83b8e359e6b34
-Description: toca Mod Menu by nk!
-Name: Toca World
-Author: nk
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
