@@ -4,12 +4,12 @@ Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/dbd502-m1.deb
-Size: 122648
-Installed-Size: 320
-MD5sum: 1f4a6af53cf9593ebcaa5d9e3d11a4d9
+Filename: debs/dbd502-1.deb
+Size: 155532
+Installed-Size: 656
+MD5sum: f99e1f818c62e230ea9988a3008f34de
 Description: dbd Mod Menu by nk!
-Name: dbd
+Name: dead by daylight
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
@@ -26,22 +26,6 @@ Installed-Size: 356
 MD5sum: 4dea4155206764e1175b11cf715f3a08
 Description: wwh Mod Menu by nk!
 Name: wwh Mod Menu
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
-Package: com.mgrigorov.3dShooter
-Version: 1
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/3dShooter_1_m1.deb
-Size: 125000
-Installed-Size: 356
-MD5sum: 1b4d468ac44a49d5ea7b144fbe42be06
-Description: 3ds Mod Menu by nk!
-Name: 3ds Mod Menu
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
