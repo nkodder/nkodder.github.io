@@ -1,3 +1,67 @@
+Package: com.bhvr.deadbydaylight
+Version: 5.0.2
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/dbd502-m1.deb
+Size: 122648
+Installed-Size: 320
+MD5sum: 1f4a6af53cf9593ebcaa5d9e3d11a4d9
+Description: dbd Mod Menu by nk!
+Name: dbd
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
+Package: com.gamedevltd.wwh
+Version: 1.26.1
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.wwh_1.26.1_m1.deb
+Size: 124184
+Installed-Size: 356
+MD5sum: 4dea4155206764e1175b11cf715f3a08
+Description: wwh Mod Menu by nk!
+Name: wwh Mod Menu
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
+Package: com.mgrigorov.3dShooter
+Version: 1
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/3dShooter_1_m1.deb
+Size: 125000
+Installed-Size: 356
+MD5sum: 1b4d468ac44a49d5ea7b144fbe42be06
+Description: 3ds Mod Menu by nk!
+Name: 3ds Mod Menu
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
+Package: com.pixonic.wwr
+Version: 7.3.1
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/wwr731-1.deb
+Size: 123040
+Installed-Size: 320
+MD5sum: edfc328be1c02f0332003c04dc1a1803
+Description: War Robots Mod Menu by nk!
+Name: War Robots Mod Menu
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: net.jakeashacks.theosinstaller2
 Version: 1.0.2-1
 Section: System
@@ -5,7 +69,7 @@ Maintainer: Jake James
 Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl
 Conflicts: net.howett.theos
 Architecture: iphoneos-arm
-Filename: debs/installtheos.deb
+Filename: debs/installtheos-ios14.deb
 Size: 2268
 MD5sum: c2f6ada2495435fc0d3ef25711da0099
 Description: Install theos and setup everything you need with one click! Works on iOS 11, 12 and 13, unc0ver and checkra1n. Supports compiling arm64e. Usage (run as root): theosinstaller sdk_version_here (example: theosinstaller 10.3)
