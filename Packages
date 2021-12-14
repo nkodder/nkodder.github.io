@@ -1,47 +1,15 @@
-Package: com.bhvr.deadbydaylight
-Version: 5.0.2
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/dbd502-1.deb
-Size: 155532
-Installed-Size: 656
-MD5sum: f99e1f818c62e230ea9988a3008f34de
-Description: dbd Mod Menu by nk!
-Name: dead by daylight
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
-Package: com.mgrigorov.3dshooter
-Version: 1.2.52
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.mgrigorov.3dshooter_1.2.52_iphoneos-arm.deb
-Size: 124092
-Installed-Size: 340
-MD5sum: 9b7be1e13ab6f00661998e9e86880c76
-Description: 3ds Mod Menu by nk!
-Name: Counter Attack
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
 Package: com.pixonic.wwr
-Version: 7.3.1
+Version: 7.7.7
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/wwr731-1.deb
-Size: 123040
-Installed-Size: 320
-MD5sum: edfc328be1c02f0332003c04dc1a1803
-Description: War Robots Mod Menu by nk!
-Name: War Robots Mod Menu
+Filename: debs/com.pixonic.wwr_7.7.7_iphoneos-arm.deb
+Size: 156814
+Installed-Size: 656
+MD5sum: 647c6ba8e0a3cfb24fc7a3508b1b1dd0
+Description: wwr Mod Menu by nk!
+Name: war robots
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
@@ -53,7 +21,7 @@ Maintainer: Jake James
 Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl
 Conflicts: net.howett.theos
 Architecture: iphoneos-arm
-Filename: debs/installtheos-ios14.deb
+Filename: debs/net.jakeashacks.theosinstaller2_1.0.2-1_iphoneos-arm.deb
 Size: 2268
 MD5sum: c2f6ada2495435fc0d3ef25711da0099
 Description: Install theos and setup everything you need with one click! Works on iOS 11, 12 and 13, unc0ver and checkra1n. Supports compiling arm64e. Usage (run as root): theosinstaller sdk_version_here (example: theosinstaller 10.3)
