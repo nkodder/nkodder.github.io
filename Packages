@@ -14,6 +14,22 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
+Package: com.gameinsight.gobios
+Version: 27.1.205
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.gameinsight.gobios_27.1.205_iphoneos-arm.deb
+Size: 156586
+Installed-Size: 656
+MD5sum: 4ddb78266112d16072927bf79c7c4eaf
+Description: gob Mod Menu by nk!
+Name: Gun of Boom
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: com.pixonic.wwr
 Version: 7.7.7
 Section: Games
