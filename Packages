@@ -20,12 +20,12 @@ Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/bt_8.2.1_m1-arm.deb
-Size: 123998
-Installed-Size: 340
-MD5sum: b1345677f50d713cbd7e03355026d90c
+Filename: debs/com.blitzteam.blitzops_8.2.1_iphoneos-arm.deb
+Size: 155930
+Installed-Size: 656
+MD5sum: bed9ae58047eb22204b2a2553c7dd364
 Description: bt Mod Menu by nk!
-Name: bt Mod Menu
+Name: Battle Prime
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
