@@ -30,6 +30,22 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
+Package: com.gamedevltd.wwh
+Version: 1.30.1
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.gamedevltd.wwh_1.30.1_iphoneos-arm.deb
+Size: 124294
+Installed-Size: 340
+MD5sum: f4b5ff8dda8c32884b25b4f055791a51
+Description: wwh Mod Menu by nk!
+Name: wwh Mod Menu
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: com.gameinsight.gobios
 Version: 27.1.205
 Section: Games
