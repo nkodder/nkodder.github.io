@@ -37,11 +37,11 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.gamedevltd.wwh_1.30.1_iphoneos-arm.deb
-Size: 124294
+Size: 124162
 Installed-Size: 340
-MD5sum: f4b5ff8dda8c32884b25b4f055791a51
+MD5sum: 6e3f2a30476a6d2667c2c44d7b1583d0
 Description: wwh Mod Menu by nk!
-Name: wwh Mod Menu
+Name: World War Heroes
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
@@ -61,6 +61,20 @@ Name: Gun of Boom
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
+Package: com.nk.autohidebar
+Version: 0.0.1
+Section: Tweaks
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.nk.autohidebar_0.0.1_iphoneos-arm.deb
+Size: 3210
+Installed-Size: 104
+MD5sum: fc9373c885fb53c11e890b9937a00d85
+Description: for a14
+Name: Autohidebar
+Author: nk
 
 Package: com.pixonic.wwr
 Version: 7.7.7
