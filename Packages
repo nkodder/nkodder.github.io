@@ -139,15 +139,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.tocaboca.tocalifeworld
-Version: 1.39.1
+Version: 1.39.2
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.tocaboca.tocalifeworld_1.39.1_iphoneos-arm.deb
-Size: 405470
+Filename: debs/com.tocaboca.tocalifeworld_1.39.2_iphoneos-arm.deb
+Size: 411006
 Installed-Size: 1284
-MD5sum: 294570ba29315ff801bf77492fc7f136
+MD5sum: 556636b8063d54868d4d4e5ad3a5f829
 Description: tocalifeworld Mod Menu by nk!
 Name: toca life world
 Author: nk
