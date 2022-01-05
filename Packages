@@ -69,11 +69,11 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.legend.strike.online_2.3.3_iphoneos-arm.deb
-Size: 124202
+Size: 124260
 Installed-Size: 340
-MD5sum: 83d5896238e03ad6651caed463a5f287
+MD5sum: f14224605ec276deca8285fa0206c049
 Description: gostrike Mod Menu by nk!
-Name: gostrike Mod Menu
+Name: Go Strike
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
