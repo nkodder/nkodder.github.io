@@ -161,9 +161,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.tocaboca.tocalifeworld_1.39.2_iphoneos-arm.deb
-Size: 411006
+Size: 405574
 Installed-Size: 1284
-MD5sum: 556636b8063d54868d4d4e5ad3a5f829
+MD5sum: df33b035f5046b7d97552019e37fd2d0
 Description: tocalifeworld Mod Menu by nk!
 Name: toca life world
 Author: nk
