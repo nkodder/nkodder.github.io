@@ -109,16 +109,16 @@ Name: Autohidebar
 Author: nk
 
 Package: com.nk.yt++
-Version: 16.x
+Version: 17.x
 Section: Tweaks
-Maintainer: PoomSmart
+Maintainer: nk
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: debs/com.nk.yt++_16.x_iphoneos-arm.deb
-Size: 5088
+Filename: debs/com.nk.yt++_17.x_iphoneos-arm.deb
+Size: 5228
 Installed-Size: 104
-MD5sum: b61f3f6a70911c4e9a77226d1aac2a0f
-Description: no ads/play background
+MD5sum: 7f80784407833247e0c539b8a07d2366
+Description: no ads
 Name: YouTube++
 Author: nk
 
@@ -168,18 +168,4 @@ Description: tocalifeworld Mod Menu by nk!
 Name: toca life world
 Author: nk
 Homepage: 
-
-Package: net.jakeashacks.theosinstaller2
-Version: 1.0.2-1
-Section: System
-Maintainer: Jake James
-Depends: clang-10, clang, odcctools, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl
-Conflicts: net.howett.theos
-Architecture: iphoneos-arm
-Filename: debs/net.jakeashacks.theosinstaller2_1.0.2-1_iphoneos-arm.deb
-Size: 2268
-MD5sum: c2f6ada2495435fc0d3ef25711da0099
-Description: Install theos and setup everything you need with one click! Works on iOS 11, 12 and 13, unc0ver and checkra1n. Supports compiling arm64e. Usage (run as root): theosinstaller sdk_version_here (example: theosinstaller 10.3)
-Name: Theos Installer 2 (unc0ver and checkra1n)
-Author: Jake James
 
