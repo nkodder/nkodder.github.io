@@ -101,9 +101,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.pixonic.wwr_7.8.1_iphoneos-arm.deb
-Size: 156882
+Size: 157070
 Installed-Size: 656
-MD5sum: 7848f1efb722d969bafadb2479224eeb
+MD5sum: 1482c08367deb0ec2cc358851c2e8370
 Description: wwr Mod Menu by nk!
 Name: War Robots
 Author: nk
