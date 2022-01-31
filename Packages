@@ -94,34 +94,6 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
-Package: com.nk.autohidebar
-Version: 0.0.1
-Section: Tweaks
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.nk.autohidebar_0.0.1_iphoneos-arm.deb
-Size: 3210
-Installed-Size: 104
-MD5sum: fc9373c885fb53c11e890b9937a00d85
-Description: for a14
-Name: Autohidebar
-Author: nk
-
-Package: com.nk.yt++
-Version: 17.x
-Section: Tweaks
-Maintainer: nk
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs/com.nk.yt++_17.x_iphoneos-arm.deb
-Size: 5228
-Installed-Size: 104
-MD5sum: 7f80784407833247e0c539b8a07d2366
-Description: no ads
-Name: YouTube++
-Author: nk
-
 Package: com.pixonic.wwr
 Version: 7.7.7
 Section: Games
