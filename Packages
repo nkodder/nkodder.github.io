@@ -46,22 +46,6 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
-Package: com.gameinsight.gobios
-Version: 28.1.217
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.gameinsight.gobios_28.1.217_iphoneos-arm.deb
-Size: 156992
-Installed-Size: 656
-MD5sum: e9457bd8317b31498f58f64a0e88c4f4
-Description: gob Mod Menu by nk!
-Name: Gun of Boom
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
 Package: com.gtarcade.dl
 Version: 1.0.8
 Section: Games
@@ -127,15 +111,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.tocaboca.tocalifeworld
-Version: 1.39.2
+Version: 1.40.1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.tocaboca.tocalifeworld_1.39.2_iphoneos-arm.deb
-Size: 405574
+Filename: debs/com.tocaboca.tocalifeworld_1.40.1_iphoneos-arm.deb
+Size: 405612
 Installed-Size: 1284
-MD5sum: df33b035f5046b7d97552019e37fd2d0
+MD5sum: 9721f8bfe328a5b381ed33e6fa6926c2
 Description: tocalifeworld Mod Menu by nk!
 Name: toca life world
 Author: nk
