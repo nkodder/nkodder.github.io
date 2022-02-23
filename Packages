@@ -15,15 +15,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.blitzteam.blitzops
-Version: 8.2.2
+Version: 8.3
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.blitzteam.blitzops_8.2.2_iphoneos-arm.deb
-Size: 155744
+Filename: debs/com.blitzteam.blitzops_8.3_iphoneos-arm.deb
+Size: 156056
 Installed-Size: 656
-MD5sum: 394d04b2a64cbb380943e2c02e3cd4cb
+MD5sum: 903123f53592c75473f6e0f48994daf1
 Description: bt Mod Menu by nk!
 Name: Battle Prime
 Author: nk
