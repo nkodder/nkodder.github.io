@@ -1,8 +1,8 @@
-Origin: 
-Label: 
+Origin: nk
+Label: nk
 Suite: stable
-Version: 
-Codename: 
+Version: 1
+Codename: nk
 Architectures: iphoneos-arm
 Components: main
-Description: 
+Description: nk
