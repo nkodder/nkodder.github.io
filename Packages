@@ -46,6 +46,22 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
+Package: com.garena.game.kgth
+Version: 1.44.1.11
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/rov.kgth_1.44.1.11_mode1-arm.deb
+Size: 124152
+Installed-Size: 340
+MD5sum: 914b9103af96905aff48f366e8bdb184
+Description: rov Mod Menu by nk!
+Name: Rov
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: com.gtarcade.dl
 Version: 1.0.8
 Section: Games
