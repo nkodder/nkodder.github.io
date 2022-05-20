@@ -31,15 +31,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.netease.ma100asia
-Version: 1.169521
+Version: 1.170231
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.netease.ma100asia_1.169521_iphoneos-arm.deb
-Size: 155752
+Filename: debs/com.netease.ma100asia_1.170231_iphoneos-arm.deb
+Size: 156084
 Installed-Size: 656
-MD5sum: 6e6adb8874bc57e72dc8f6f598a81ab8
+MD5sum: a23ac2a0625a7389eed9e45a1b95e4e0
 Description: DeadByDaylight Mod Menu by nk!
 Name: DeadByDaylight (netease)
 Author: nk
