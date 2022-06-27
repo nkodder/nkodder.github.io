@@ -31,15 +31,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.netease.ma100asia
-Version: 1.173209
+Version: 1.174605
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.netease.ma100asia_1.173209_iphoneos-arm.deb
-Size: 156578
+Filename: debs/dbd_1.174605_m1-arm.deb
+Size: 160022
 Installed-Size: 656
-MD5sum: d0f4bf4efecee4020efed6b525225326
+MD5sum: b27157258cb9421c01663861f6389ec1
 Description: DeadByDaylight Mod Menu by nk!
 Name: DeadByDaylight (netease)
 Author: nk
@@ -58,22 +58,6 @@ Installed-Size: 656
 MD5sum: 5264f170ddb21cfebaa3e0f39bfd07b0
 Description: wr Mod Menu by nk!
 Name: War Robots
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
-Package: com.tocaboca.tocalifeworld
-Version: 1.45
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.tocaboca.tocalifeworld_1.45_iphoneos-arm.deb
-Size: 123546
-Installed-Size: 336
-MD5sum: 25bc0a078f01a2b8f8204b41b34406e3
-Description: toca Mod Menu by nk!
-Name: Toca World
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
