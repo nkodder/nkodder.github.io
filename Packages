@@ -1,3 +1,19 @@
+Package: com.bhvr.deadbydaylight
+Version: 5.4
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.bhvr.deadbydaylight_5.4_iphoneos-arm.deb
+Size: 124112
+Installed-Size: 340
+MD5sum: af7fb127b0e59c16868004ee469fd0b8
+Description: DeadByDaylight Mod Menu by nk!
+Name: DeadByDaylight
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: com.blitzteam.blitzops
 Version: 8.3
 Section: Games
@@ -31,15 +47,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.netease.ma100asia
-Version: 1.175286
+Version: 1.179208
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.netease.ma100asia_1.175286_iphoneos-arm.deb
-Size: 160336
-Installed-Size: 656
-MD5sum: 3361839ec2fbdbd5d848c9ac35bb6acb
+Filename: debs/com.netease.ma100asia_1.179208_iphoneos-arm.deb
+Size: 124116
+Installed-Size: 340
+MD5sum: 2f11a71adb5e05004c0592907556f7f6
 Description: DeadByDaylight Mod Menu by nk!
 Name: DeadByDaylight (netease)
 Author: nk
