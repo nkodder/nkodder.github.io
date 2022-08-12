@@ -30,22 +30,6 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
-Package: com.garena.game.kgth
-Version: 1.45
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.garena.game.kgth_1.45_iphoneos-arm.deb
-Size: 123934
-Installed-Size: 336
-MD5sum: 0058e03e744ab4f5187f577682e7b8b3
-Description: rov Mod Menu by nk!
-Name: Garena Rov
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
 Package: com.netease.ma100asia
 Version: 1.179208
 Section: Games
@@ -63,15 +47,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.pixonic.wwr
-Version: 8.2
+Version: 8.3
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_8.2_iphoneos-arm.deb
-Size: 156598
-Installed-Size: 656
-MD5sum: dc5fec3fd17ba96f98d9d936e7c2cfc3
+Filename: debs/com.pixonic.wwr_8.3_iphoneos-arm.deb
+Size: 124452
+Installed-Size: 340
+MD5sum: bf2ee0e57ceca2a434c3a17cf28b135d
 Description: wr Mod Menu by nk!
 Name: War Robots
 Author: nk
