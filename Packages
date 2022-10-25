@@ -31,15 +31,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.pixonic.wwr
-Version: 8.4
+Version: 8.5
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_8.4_iphoneos-arm.deb
-Size: 124432
+Filename: debs/com.pixonic.wwr_8.5_iphoneos-arm.deb
+Size: 124048
 Installed-Size: 340
-MD5sum: d7d80870622db85286b430dea4da69f2
+MD5sum: dd50ca69edb202488840c7e4a8a428a1
 Description: wr Mod Menu by nk!
 Name: War Robots
 Author: nk
@@ -47,15 +47,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.tocaboca.tocalifeworld
-Version: 1.50
+Version: 1.52
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.tocaboca.tocalifeworld_1.50_iphoneos-arm.deb
-Size: 123952
+Filename: debs/com.tocaboca.tocalifeworld_1.52_iphoneos-arm.deb
+Size: 123892
 Installed-Size: 340
-MD5sum: ed2854a81283094db3bed8ca896df66d
+MD5sum: b8654eaefacacccfd0c4994bd1f10cf3
 Description: toca Mod Menu by nk!
 Name: Toca World
 Author: nk
