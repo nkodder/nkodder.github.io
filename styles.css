@@ -211,7 +211,7 @@
     letter-spacing: 1px;
     word-spacing: 0px;
     font-family: Quicksand;
-    color: #FFFFFF;
+    color: #FF00FF;
     text-transform: capitalize;
     text-decoration: none;
     font-weight: bolder;
@@ -246,7 +246,7 @@
     font-family: inherit;
     font-size: 14px;
     font-weight: bolder;
-    background-color: #ffffff;
+    background-color: #ff00ff;
     cursor: pointer;
     outline: none !important;
     border: none;
@@ -300,7 +300,7 @@
     font-family: inherit;
     font-size: 14px;
     font-weight: bolder;
-    background-color: #ffffff;
+    background-color: #00ff00;
     cursor: pointer;
     outline: none !important;
     border: none;
