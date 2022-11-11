@@ -14,6 +14,22 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
+Package: com.devsisters.ck
+Version: 3.9.001
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.devsisters.ck_3.9.001_iphoneos-arm.deb
+Size: 124030
+Installed-Size: 340
+MD5sum: b1ceff494b386aba5c3adaaf5198698f
+Description: cook Mod Menu by nk!
+Name: Cookie Run: Kingdom
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: com.netease.ma100asia
 Version: 1.193789
 Section: Games
