@@ -106,7 +106,7 @@ i.icon-bars.theme-gray {
 }
 
 .theme-gray .messagebar .messagebar-send-link {
-    background-color: #8e8e93
+    background-color: #938e93
 }
 
 .form-checkbox.theme-gray input[type=checkbox]:checked~i,
@@ -115,7 +115,7 @@ i.icon-bars.theme-gray {
 .theme-gray label.label-checkbox input[type=radio]:checked+.item-media i.icon-form-checkbox,
 label.label-checkbox.theme-gray input[type=checkbox]:checked+.item-media i.icon-form-checkbox,
 label.label-checkbox.theme-gray input[type=radio]:checked+.item-media i.icon-form-checkbox {
-    background-color: #8e8e93
+    background-color: #938e93
 }
 
 .form-radio.theme-gray input[type=radio]:checked~i,
@@ -185,7 +185,7 @@ html:not(.watch-active-state) .floating-button.theme-gray:active,
 html:not(.watch-active-state) .speed-dial-buttons a.theme-gray:active,
 html:not(.watch-active-state) .theme-gray .floating-button:active,
 html:not(.watch-active-state) .theme-gray .speed-dial-buttons a:active {
-    background: #79797f
+    background: #00ff00
 }
 
 .floating-button.theme-gray i,
@@ -605,7 +605,7 @@ html:not(.watch-active-state) .theme-black .speed-dial-buttons a:active {
 }
 
 .theme-lightblue .button:not(.button-fill) {
-    border-color: #5ac8fa
+    border-color: #00ff00
 }
 
 .theme-lightblue .button:not(.button-fill).active-state,
@@ -1091,7 +1091,7 @@ i.icon-bars.theme-orange {
 }
 
 .theme-orange .messagebar .messagebar-send-link {
-    background-color: #ff9500
+    background-color: #000000
 }
 
 .form-checkbox.theme-orange input[type=checkbox]:checked~i,
@@ -3481,7 +3481,7 @@ html:not(.watch-active-state) .layout-dark label.label-radio:active {
 }
 
 .layout-dark .label-switch .checkbox {
-    background-color: #393939
+    background-color: #00ff00
 }
 
 .layout-dark .label-switch .checkbox:before {
@@ -3586,7 +3586,7 @@ html:not(.ios):not(.android) .layout-dark .data-table tbody tr:hover {
         right: auto;
         height: 1px;
         width: 100%;
-        background-color: #393939;
+        background-color: #938e93;
         display: block;
         z-index: 15;
         -webkit-transform-origin: 50% 0;
@@ -3733,7 +3733,7 @@ html:not(.ios):not(.android) .layout-dark .data-table tbody tr:hover {
 
 .layout-white .list-block.inset ul,
 .list-block.layout-white.inset ul {
-    background: #fafafa
+    background: #00ff00
 }
 
 .layout-white .list-block.notifications>ul,
@@ -3788,7 +3788,7 @@ html:not(.watch-active-state) .layout-white label.label-radio:active {
 
 .layout-white .item-divider,
 .layout-white .list-group-title {
-    background: #f7f7f7;
+    background: #00ff00;
     color: #777
 }
 
@@ -3829,7 +3829,7 @@ html:not(.watch-active-state) .layout-white label.label-radio:active {
 }
 
 .layout-white .label-switch .checkbox {
-    background-color: #e5e5e5
+    background-color: #00ff00
 }
 
 .layout-white .label-switch .checkbox:before {
@@ -3876,3 +3876,33 @@ html:not(.watch-active-state) .layout-white label.label-radio:active {
 .layout-white .timeline-year:after {
     background-color: #ddd
 }
+
+body {
+  background-color: #333;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  height: 100vh;
+}
+
+.rainbowText {
+  font-family:arial black;
+  font-size:70px;
+  background-image: 
+    linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  
+  animation: move 35s linear infinite;
+}
+
+@keyframes move {
+  to {
+    background-position: 4500vh;
+  }
+}
+
+
+
+
+
+Resources
