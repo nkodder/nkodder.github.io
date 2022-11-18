@@ -30,6 +30,22 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
+Package: com.gamegos.mobile.cafeland
+Version: 2.2.66
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.gamegos.mobile.cafeland_2.2.66_iphoneos-arm.deb
+Size: 123732
+Installed-Size: 340
+MD5sum: e8bcb2fd2eab2ffa2902f3b2919b2f09
+Description: Spend = Earn
+Name: Cafeland - Restaurant Cooking
+Author: nk
+Homepage: nkodder.github.io
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
 Package: com.netease.ma100asia
 Version: 1.193789
 Section: Games
@@ -63,16 +79,16 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.tocaboca.tocalifeworld
-Version: 1.52
+Version: 1.54
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.tocaboca.tocalifeworld_1.52_iphoneos-arm.deb
-Size: 123892
+Filename: debs/tocalifeworld_1.54_iphoneos-arm.deb
+Size: 123938
 Installed-Size: 340
-MD5sum: b8654eaefacacccfd0c4994bd1f10cf3
-Description: unlock!
+MD5sum: 7a1e5762bfa7fb7cdd9c3d9466fa3e97
+Description: toca Mod Menu by nk!
 Name: Toca World
 Author: nk
 Homepage: 
