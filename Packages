@@ -78,6 +78,21 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
+Package: com.tigisoftware.filza64bit
+Version: 3.9.7-2
+Section: Utilities
+Maintainer: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Architecture: iphoneos-arm
+Filename: debs/Filza64bit.deb
+Size: 9019200
+Installed-Size: 23784
+MD5sum: 0d288f6873b5fed193f4c71c7e278580
+Description: Cracked Full Active
+Name: Filza File Manager 64-bit Cracked
+Author: nk
+
 Package: com.tocaboca.tocalifeworld
 Version: 1.54
 Section: Games
