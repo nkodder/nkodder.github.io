@@ -33,4 +33,13 @@
 "size": 950000000,
 "versionDate": "2022-11-12",
 "versionDescription": "+Move Speed"},	
+
+{"name": "FilzaCracked",
+"version": "3.9.8",
+"downloadURL": "https://raw.githubusercontent.com/nkodder/nkodder.github.io/master/c/FilzaCracked_3.9.8.ipa",
+"iconURL": "https://raw.githubusercontent.com/nkodder/nkodder.github.io/master/img/fc.png",
+"size": 14000000,
+"versionDate": "2022-11-12",
+"versionDescription": "Full Active"},
+
 ]}
