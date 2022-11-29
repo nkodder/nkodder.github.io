@@ -62,21 +62,6 @@ Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
-Package: com.nk.filza
-Version: 3.9.7-2
-Section: Utilities
-Maintainer: TIGI Software
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
-Architecture: iphoneos-arm
-Filename: debs/com.nk.filza1571.deb
-Size: 9150452
-Installed-Size: 34244
-MD5sum: b899a89caea034c25a1609c7a827c03e
-Description: Cracked Full Active for palera1n iOS 15+
-Name: Filza File Manager (15.7.1)
-Author: nk
-
 Package: com.pixonic.wwr
 Version: 8.5
 Section: Games
