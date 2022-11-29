@@ -31,15 +31,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.gamegos.mobile.cafeland
-Version: 2.2.68
+Version: 2.2.71
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gamegos.mobile.cafeland_2.2.68_iphoneos-arm.deb
-Size: 123958
+Filename: debs/com.gamegos.mobile.cafeland_2.2.71_iphoneos-arm.deb
+Size: 123884
 Installed-Size: 340
-MD5sum: 0e0f9539c44be00b76a96b01e2b61207
+MD5sum: 2ed9099c4c59f87869d4c7917c668988
 Description: Spend = Earn (everything)
 Name: Cafeland - Restaurant Cooking
 Author: nk
