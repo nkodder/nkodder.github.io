@@ -63,16 +63,16 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.pixonic.wwr
-Version: 8.5
+Version: 8.6
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_8.5_iphoneos-arm.deb
-Size: 124048
+Filename: debs/com.pixonic.wwr_8.6_iphoneos-arm.deb
+Size: 124784
 Installed-Size: 340
-MD5sum: dd50ca69edb202488840c7e4a8a428a1
-Description: wr Mod Menu by nk!
+MD5sum: 64375bb6697f8987f22e368787c846ac
+Description: Speed x2/anti lock /move/ability/modul
 Name: War Robots
 Author: nk
 Homepage: 
