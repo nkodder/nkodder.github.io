@@ -21,9 +21,9 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.devsisters.ck_3.10.101_iphoneos-arm.deb
-Size: 123902
+Size: 123952
 Installed-Size: 340
-MD5sum: 700a9f6428b48ee6ee0d56c0c7361f1f
+MD5sum: a276876001682e6613ba716dada98cc4
 Description: move speed
 Name: Cookie Run: Kingdom
 Author: nk
