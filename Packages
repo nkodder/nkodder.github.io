@@ -47,33 +47,49 @@ Homepage: nkodder.github.io
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.netease.ma100asia
-Version: 1.193789
+Version: 1.199168
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.netease.ma100asia_1.193789_iphoneos-arm.deb
-Size: 124160
+Filename: debs/com.netease.ma100asia_1.199168_iphoneos-arm.deb
+Size: 124190
 Installed-Size: 340
-MD5sum: 0491aaaa7caaec1866e20f82d0b1235e
-Description: DeadByDaylight Mod Menu by nk!
+MD5sum: 386f910c8116a95de727bc63b89fd09c
+Description: Generator chams|disable Skill check
 Name: DeadByDaylight (netease)
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.pixonic.wwr
-Version: 8.6
+Version: 8.6.1
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.pixonic.wwr_8.6_iphoneos-arm.deb
-Size: 124784
-Installed-Size: 340
-MD5sum: 64375bb6697f8987f22e368787c846ac
-Description: Speed x2/anti lock /move/ability/modul
+Filename: debs/com.wwr_8.6.1_m1-arm.deb
+Size: 123732
+Installed-Size: 336
+MD5sum: e4b4d3d5f430409afa64e81036967929
+Description: move Speed x2|anti lock move/ability/modul
 Name: War Robots
+Author: nk
+Homepage: 
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
+Package: com.roblox.robloxmobile
+Version: 2.555.874
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.roblox.robloxmobile_2.555.874_iphoneos-arm.deb
+Size: 123976
+Installed-Size: 340
+MD5sum: 48cb64447821c10332a7d6020a3fe785
+Description: Jump to Fly
+Name: Roblox
 Author: nk
 Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
@@ -94,16 +110,16 @@ Name: Filza File Manager 64-bit Cracked
 Author: nk
 
 Package: com.tocaboca.tocalifeworld
-Version: 1.54
+Version: 1.56
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/tocalifeworld_1.54_iphoneos-arm.deb
-Size: 123938
+Filename: debs/com.tocaboca.tocalifeworld_1.56_iphoneos-arm.deb
+Size: 123752
 Installed-Size: 340
-MD5sum: 7a1e5762bfa7fb7cdd9c3d9466fa3e97
-Description: toca Mod Menu by nk!
+MD5sum: 633eae2223e10600d37a2d103c689f43
+Description: unlock map
 Name: Toca World
 Author: nk
 Homepage: 
