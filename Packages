@@ -15,15 +15,15 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.devsisters.ck
-Version: 3.10.101
+Version: 3.11.101
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.devsisters.ck_3.10.101_iphoneos-arm.deb
-Size: 123952
+Filename: debs/com.devsisters.ck_3.11.101_iphoneos-arm.deb
+Size: 124060
 Installed-Size: 340
-MD5sum: a276876001682e6613ba716dada98cc4
+MD5sum: 67be2a0fae5d7c2fbcba3427bb0714a7
 Description: move speed
 Name: Cookie Run: Kingdom
 Author: nk
