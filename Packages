@@ -15,19 +15,35 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.gamegos.mobile.cafeland
-Version: 2.2.71
+Version: 2.2.76
 Section: Games
 Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.gamegos.mobile.cafeland_2.2.71_iphoneos-arm.deb
-Size: 123884
+Filename: debs/com.gamegos.mobile.cafeland_2.2.76_iphoneos-arm.deb
+Size: 123858
 Installed-Size: 340
-MD5sum: 2ed9099c4c59f87869d4c7917c668988
+MD5sum: 4ec6916947822ae888f0939be6012410
 Description: Spend = Earn (everything)
 Name: Cafeland - Restaurant Cooking
 Author: nk
 Homepage: nkodder.github.io
+Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+
+Package: com.hyperbeard.mydearfarm
+Version: 1.4.1
+Section: Games
+Maintainer: nk
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.hyperbeard.mydearfarm_1.4.1_iphoneos-arm.deb
+Size: 123744
+Installed-Size: 340
+MD5sum: 71b4e534989f05878d1c4624397b548c
+Description: Unlimited Coin|Gem
+Name: My Dear Farm
+Author: nk
+Homepage: 
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.netease.ma100asia
@@ -83,14 +99,14 @@ Version: 4.0.0-4
 Section: Utilities
 Maintainer: TIGI Software
 Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Conflicts: 
 Architecture: iphoneos-arm
 Filename: debs/filza64.deb
-Size: 8788556
+Size: 8788514
 Installed-Size: 23296
-MD5sum: 480c1f2a69683f1b528ee750a83a5ffa
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
-Name: Filza File Manager 64-bit
+MD5sum: 0aac4cf7aa45a3b8a025db00ac089e7b
+Description: Cracked Full active
+Name: Filza File Manager 64-bit Cracked
 Author: TIGI Software
 
 Package: com.tocaboca.tocalifeworld
