@@ -79,19 +79,19 @@ Homepage:
 Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
 Package: com.tigisoftware.filza64bit
-Version: 3.9.7-2
+Version: 4.0.0-4
 Section: Utilities
 Maintainer: TIGI Software
 Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
 Architecture: iphoneos-arm
-Filename: debs/Filza64bit.deb
-Size: 9019200
-Installed-Size: 23784
-MD5sum: 0d288f6873b5fed193f4c71c7e278580
-Description: Cracked Full Active
-Name: Filza File Manager 64-bit Cracked
-Author: nk
+Filename: debs/filza64.deb
+Size: 8788556
+Installed-Size: 23296
+MD5sum: 480c1f2a69683f1b528ee750a83a5ffa
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
 
 Package: com.tocaboca.tocalifeworld
 Version: 1.56
