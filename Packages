@@ -85,10 +85,10 @@ Maintainer: nk
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.roblox.robloxmobile_2.555.874_iphoneos-arm.deb
-Size: 123976
+Size: 124126
 Installed-Size: 340
-MD5sum: 48cb64447821c10332a7d6020a3fe785
-Description: Jump to Fly
+MD5sum: 44ea723c155e69a7a85f6b8f9a37a830
+Description: Jump to Fly|fly
 Name: Roblox
 Author: nk
 Homepage: 
