@@ -1,0 +1,21 @@
+{	
+	"META": {
+	"repoName": "nk App",
+	"repoIcon": "https://github.com/nkodder/nkodder.github.io/blob/master/CydiaIcon.png?raw=true"
+	},
+	"Apps": [
+	{
+	"name": "Battle Prime",
+	"version": "8.3",
+	"icon": "https://github.com/nkodder/nkodder.github.io/blob/master/img/bt.png?raw=true",
+	"down": "https://archive.org/download/com.blitzteam.blitzops-8.3-m1/com.blitzteam.blitzops-8.3-m1.ipa",
+	"category": "Apps",
+	"description": "no recoil",
+	"bundleID": "com.nk.bt",
+	"appstore": "com.nk.bt",
+	"contact": {
+	"web": "https://nkodder.github.io"
+	}
+	}
+	]
+	
