@@ -1,45 +1,47 @@
 {
-	"name": "nkodder",
-	"apps": [
+  "name": "Quantum Source++",
+  "identifier": "com.quarksources.quantumsource++",
+  "apiVersion": "v2",
+  "subtitle": "Contains tweaked apps, free streaming, cracked apps, and more.",
+  "description": "This source is an automatically kept up-to-date source, powered by GitHub Actions, the Python altparse library, and the support of independent developers. In here, you'll find anything from streaming services without ads, to custom themed App Store apps. If you have an app you'd like to see here, please use our website to reach out!",
+  "iconURL": "https://quarksources.github.io/assets/ElementQ-Circled.png",
+  "headerURL": "https://quarksources.github.io/assets/quantumsource++.png",
+  "website": "https://quarksources.github.io/",
+  "tintColor": "#343a40",
+  "featuredApps": [
+    "com.spotify.client",
+    "com.streamer.ios",
+    "com.google.ios.youtube",
+    "com.marcuszhou.NineAnimator",
+    "com.hammerandchisel.discord"
+  ],
+  "apps": [
+    {
+      "name": "Emnity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity Team",
+      "subtitle": "The power of addons, all in your hand.",
+      "localizedDescription": "Add plugins and themes to Discord!",
+      "iconURL": "https://files.enmity.app/icon-altstore.png",
+      "tintColor": "#6D00FF",
+      "screenshotURLs": [
+        "https://i.imgur.com/Xg65i1U.png",
+        "https://i.imgur.com/97x9gcA.png"
+      ],
+      "versions": [
+        {
+          "absoluteVersion": "2.2.6",
+          "version": "177.1",
+          "date": "2023-05-13T14:40:38Z",
+          "localizedDescription": "# Enmity v2.2.6\n\n",
+          "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
+          "size": 94911970,
+          "sha256": "c22949b6a99acfd32080b27e268d52173ad8917dc5020c7f1f982c4a428ed994"
+        
+        
 
-{"name": "TikTok++DL",
-"version": "26.8.0",
-"downloadURL": "https://archive.org/download/tik-tok-dl-26.8.0-com.ss.iphone.ugc.-ame-1667982650/TikTok%2BDL_26.8.0_com.ss.iphone.ugc.Ame_1667982650.ipa",
-"iconURL": "https://archive.org/download/0-c-4246-d-7-2-db-6-4-df-1-ac-70-75-cb-5-eb-724-bf/0C4246D7-2DB6-4DF1-AC70-75CB5EB724BF.png",
-"size": 172000000,
-"versionDate": "2022-11-10",
-"versionDescription": "Auto next video"},
-		
-{"name": "YouTube+U+R",
-"version": "17.46.4",
-"downloadURL": "https://archive.org/download/you-tube-by-nk_202211/YouTube%20by%20nk.ipa",
-"iconURL": "https://archive.org/download/e-5340057-4166-464-c-8316-9-a-65-dc-050193/E5340057-4166-464C-8316-9A65DC050193.png",
-"size": 115000000,
-"versionDate": "2022-11-10",
-"versionDescription": "+uYou+Reborn"},
 
-{"name": "Battle Prime",
-"version": "8.3",
-"downloadURL": "https://archive.org/download/com.blitzteam.blitzops-8.3-m1/com.blitzteam.blitzops-8.3-m1.ipa",
-"iconURL": "https://archive.org/download/c-7-f-1-faff-c-61-e-438-a-9029-3-d-6928085498/C7F1FAFF-C61E-438A-9029-3D6928085498.png",
-"size": 1650000000,
-"versionDate": "2022-11-11",
-"versionDescription": "+No recoil"},		
-
-{"name": "Cookie Run: Kingdom",
-"version": "3.9.101",
-"downloadURL": "https://archive.org/download/cookie-run-kingdom-3.9.101-m-1/Cookie%20Run%3A%20Kingdom_3.9.101_m1.ipa",
-"iconURL": "https://archive.org/download/6-b-1-b-8544-fddf-408-a-9-c-2-c-ac-43450-f-1965/6B1B8544-FDDF-408A-9C2C-AC43450F1965.png",
-"size": 950000000,
-"versionDate": "2022-11-12",
-"versionDescription": "+Move Speed"},	
-
-{"name": "FilzaCracked",
-"version": "3.9.8",
-"downloadURL": "https://raw.githubusercontent.com/nkodder/nkodder.github.io/master/c/FilzaCracked_3.9.8.ipa",
-"iconURL": "https://raw.githubusercontent.com/nkodder/nkodder.github.io/master/img/fc.png",
-"size": 14000000,
-"versionDate": "2022-11-12",
-"versionDescription": "Full Active"},
-
-]}
+    }
+  ],
+  "userinfo": {}
+}
