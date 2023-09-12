@@ -1,13 +1,13 @@
 {
-	"name": "Suffuse",
-	"identifier": "com.suffuseteam.altstore",
+	"name": "nkodder",
+	"identifier": "com.nkodder.wwr9",
   "apps": [
     {
-			"name": "Suffuse",
+			"name": "war robots",
 			"bundleIdentifier": "com.firecore.infuse",
 			"developerName": "Suffuse Team",
 			"subtitle": "Infuse 7 with Pro unlocked",
-      "version": "7.6",
+      "version": "9.3.2",
       "versionDate": "2023-09-05",
 			"versionDescription": "For full release details visit: https://firecore.com/releases",
 			"downloadURL": "https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse.ipa",
@@ -39,13 +39,13 @@
   ],
 "news": [
   {
-    "title": "Suffuse Now Available!",
+    "title": "nkodder Now Available!",
     "identifier": "suffuse-available-altstore",
     "caption": "Introducing Suffuse's official AltStore Repo",
     "date": "2023-01-04",
     "tintColor": "ff8000",
     "imageURL": "https://suffuse-team.github.io/images/banner.png",
-    "appID": "com.firecore.infuse",
+    "appID": "com.nkodder.wwr9",
     "notify": true
   }
 ]
