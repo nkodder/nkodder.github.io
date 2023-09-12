@@ -3,11 +3,11 @@
 	"identifier": "com.suffuseteam.altstore",
   "apps": [
     {
-			"name": "Suffuse",
-			"bundleIdentifier": "com.firecore.infuse",
-			"developerName": "Suffuse Team",
-			"subtitle": "Infuse 7 with Pro unlocked",
-      "version": "7.6",
+			"name": "war robots",
+			"bundleIdentifier": "com.nk.wwr",
+			"developerName": "nk Team",
+			"subtitle": "+6",
+      "version": "9.3.2",
       "versionDate": "2023-09-05",
 			"versionDescription": "For full release details visit: https://firecore.com/releases",
 			"downloadURL": "https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse.ipa",
