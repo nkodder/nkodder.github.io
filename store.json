@@ -36,8 +36,8 @@
 "news": [
   {
     "title": "nkodder Now Available!",
-    "identifier": "suffuse-available-altstore",
-    "caption": "Introducing Suffuse's official AltStore Repo",
+    "identifier": "nkodder-available-altstore",
+    "caption": "Introducing nkodder official AltStore Repo",
     "date": "2023-01-04",
     "tintColor": "ff8000",
     "imageURL": "https://iosgods.com/uploads/monthly_2023_04/IMG_0.thumb.PNG.eee5d90c9ac48069822d2686aa639617.PNG",
