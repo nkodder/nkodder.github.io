@@ -37,17 +37,16 @@
 			]
 		}
   ],
-"news": [
+ws": [
   {
-    "title": "nkodder Now Available!",
-    "identifier": "nkodder-available-altstore",
+    "title": "Suffuse Now Available!",
+    "identifier": "suffuse-available-altstore",
     "caption": "Introducing Suffuse's official AltStore Repo",
     "date": "2023-01-04",
     "tintColor": "ff8000",
-    "imageURL": "https://iosgods.com/uploads/monthly_2023_04/IMG_0.thumb.PNG.eee5d90c9ac48069822d2686aa639617.PNG",
-    "appID": "com.nkodder.wwr9",
+    "imageURL": "https://suffuse-team.github.io/images/banner.png",
+    "appID": "com.firecore.infuse",
     "notify": true
   }
 ]
-
 }
