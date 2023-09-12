@@ -1,42 +1,38 @@
 {
-	"name": "Suffuse",
-	"identifier": "com.suffuseteam.altstore",
-  "apps": [
-    {
-			"name": "Suffuse",
-			"bundleIdentifier": "com.firecore.infuse",
-			"developerName": "Suffuse Team",
-			"subtitle": "Infuse 7 with Pro unlocked",
-      "version": "7.6",
-      "versionDate": "2023-09-05",
-			"versionDescription": "For full release details visit: https://firecore.com/releases",
-			"downloadURL": "https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse.ipa",
-			"size": 43552531,
-			"minOSVersion": "14.0",
-			"localizedDescription": "Infuse 7 with Pro unlocked\n\nIgnite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files! Infuse is optimized for macOS 12, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.",
-			"iconURL": "https://suffuse-team.github.io/images/icon.png",
-			"tintColor": "ff8000",
-			"permissions": [
-				{
-					"type": "network",
-					"usageDescription": "Used to discover network shares and Google Cast devices in your local network"
-				},
-				{
-					"type": "bluetooth",
-					"usageDescription": "Used to discover Google Cast devices in your local network"
-				}
-			],
+    "name": "My Example Source",
+    "identifier": "com.example.MyApps",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "website": "https://example.com",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.example.myapp",
+        "com.example.anotherapp"
+    ],
+    "apps": [
+        {
+            "name": "My Example App",
+            "bundleIdentifier": "com.example.myapp",
+            "developerName": "Example Developer",
+            "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "tintColor": "#5CA399",
+      "screenshotURLs": [
+                "https://example.com/myapp_screenshot1.png",
+                "https://example.com/myapp_screenshot2.png",
+                "https://example.com/myapp_screenshot3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2022-05-01T09:00:00-08:00",
+          "size": 20000000,
+          "downloadURL": "https://example.com/myapp_v1.1.ipa",
+          "localizedDescription": "New features and bug fixes.",
+          "minOSVersion": "12.0"},
 
-"news": [
-  {
-    "title": "Suffuse Now Available!",
-    "identifier": "suffuse-available-altstore",
-    "caption": "Introducing Suffuse's official AltStore Repo",
-    "date": "2023-01-04",
-    "tintColor": "ff8000",
-    "imageURL": "https://suffuse-team.github.io/images/banner.png",
-    "appID": "com.firecore.infuse",
-    "notify": true
-  }
-]
-}
+                }
+            ],
