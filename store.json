@@ -4,8 +4,8 @@
   "apps": [
     {
 			"name": "war robots",
-			"bundleIdentifier": "com.firecore.infuse",
-			"developerName": "Suffuse Team",
+			"bundleIdentifier": "com.nkodder.wwr9",
+			"developerName": "nkodder Team",
 			"subtitle": "hack +6",
       "version": "9.3.2",
       "versionDate": "2023-09-05",
