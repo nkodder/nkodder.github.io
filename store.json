@@ -8,13 +8,13 @@
   "website": "https://nkodder.github.io",
   "tintColor": "#4185A9",
   "featuredApps": [
-      "com.example.myapp",
-      "com.example.anotherapp"
+      "com.nkodder.myapp",
+      "com.nkodder.anotherapp"
   ],
   "apps": [
       {
           "name": "My Example App",
-          "bundleIdentifier": "com.example.myapp",
+          "bundleIdentifier": "com.nkodder.myapp",
           "developerName": "Example Developer",
           "subtitle": "An awesome app.",
     "localizedDescription": "This is an awesome app only available on AltStore.",
