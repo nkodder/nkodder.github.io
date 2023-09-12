@@ -35,6 +35,24 @@
           "minOSVersion": "12.0"},
 
                 
-            
- "news": [],
+              {
+                    "version": "1.0",
+                    "date": "2022-03-16T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://example.com/myapp_v1.0.ipa",
+          "localizedDescription": "Initial release."
+                }
+            ],
+"news": [
+  {
+    "title": "nkodder Now Available!",
+    "identifier": "nkodder-available-altstore",
+    "caption": "Introducing nkodder's official AltStore Repo",
+    "date": "2023-01-04",
+    "tintColor": "ff8000",
+    "imageURL": "https://suffuse-team.github.io/images/banner.png",
+    "appID": "com.nkodder.altstore",
+    "notify": true
+  }
+]
 }
