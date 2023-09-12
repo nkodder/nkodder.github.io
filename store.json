@@ -3,18 +3,30 @@
 	"identifier": "com.nkodder.altstore",
   "apps": [
     {
-			"name": "nkodder",
-			"bundleIdentifier": "com.nkodder.infuse",
+			"name": "War robots",
+			"bundleIdentifier": "com.nkodder.wwr9",
 			"developerName": "nkodder Team",
-			"subtitle": "Infuse 7 with Pro unlocked",
-      "version": "7.6",
+			"subtitle": "+6",
+      "version": "9.3.2",
       "versionDate": "2023-09-05",
-			"versionDescription": "For full release details visit: https://firecore.com/releases",
-			"downloadURL": "https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse.ipa",
+			"versionDescription": "https://t.me/+9tce62Yp-0QyMThl",
+			"downloadURL": "https://archive.org/download/war-robots-m-1-9.3.2/War%20RobotsM1_9.3.2.ipa",
 			"size": 43552531,
 			"minOSVersion": "14.0",
-			"localizedDescription": "Infuse 7 with Pro unlocked\n\nIgnite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files! Infuse is optimized for macOS 12, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.",
-			"iconURL": "https://suffuse-team.github.io/images/icon.png",
+			"localizedDescription": " Hack Features:
+
+- Speed +
+- Anti lock move
+- rapid fire taran and other
+
+- Gun not broken
+
+- Focus Speed
+
+- Anti lock ability
+
+.",
+			"iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yO-pgYosj-2Cxc9w7kQcH--Cy1BXCY_8Iw&usqp=CAU",
 			"tintColor": "ff8000",
 			"permissions": [
 				{
@@ -27,13 +39,8 @@
 				}
 			],
 			"screenshotURLs": [
-				"https://suffuse-team.github.io/images/1.png",
-				"https://suffuse-team.github.io/images/2.png",
-				"https://suffuse-team.github.io/images/3.png",
-				"https://suffuse-team.github.io/images/4.png",
-				"https://suffuse-team.github.io/images/5.png",
-				"https://suffuse-team.github.io/images/6.png",
-				"https://suffuse-team.github.io/images/7.png"
+				"https://youtu.be/HoPoAaesXds?feature=shared",
+				
 			]
 		}
   ],
@@ -44,8 +51,8 @@
     "caption": "Introducing Suffuse's official AltStore Repo",
     "date": "2023-01-04",
     "tintColor": "ff8000",
-    "imageURL": "https://suffuse-team.github.io/images/banner.png",
-    "appID": "com.nkodder.infuse",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yO-pgYosj-2Cxc9w7kQcH--Cy1BXCY_8Iw&usqp=CAU",
+    "appID": "com.nkodder.wwr",
     "notify": true
   }
 ]
