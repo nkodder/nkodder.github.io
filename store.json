@@ -1,11 +1,11 @@
 {
-	"name": "Suffuse",
-	"identifier": "com.suffuseteam.altstore",
+	"name": "nkodder",
+	"identifier": "com.nkodder.altstore",
   "apps": [
     {
-			"name": "Suffuse",
-			"bundleIdentifier": "com.firecore.infuse",
-			"developerName": "Suffuse Team",
+			"name": "nkodder",
+			"bundleIdentifier": "com.nkodder.infuse",
+			"developerName": "nkodder Team",
 			"subtitle": "Infuse 7 with Pro unlocked",
       "version": "7.6",
       "versionDate": "2023-09-05",
