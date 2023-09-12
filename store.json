@@ -1,11 +1,11 @@
 {
-    "name": "My Example Source",
-    "identifier": "com.example.MyApps",
+    "name": "nk",
+    "identifier": "com.nkodder.altstore",
     "subtitle": "All my apps in one place.",
     "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://example.com",
+    "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yO-pgYosj-2Cxc9w7kQcH--Cy1BXCY_8Iw&usqp=CAU",
+    "headerURL": "https://iosgods.com/uploads/monthly_2023_04/IMG_0.thumb.PNG.eee5d90c9ac48069822d2686aa639617.PNG",
+    "website": "https://nkodder.github.io",
     "tintColor": "#4185A9",
     "featuredApps": [
         "com.example.myapp",
@@ -13,12 +13,12 @@
     ],
     "apps": [
         {
-            "name": "My Example App",
-            "bundleIdentifier": "com.example.myapp",
-            "developerName": "Example Developer",
+            "name": "War robots",
+            "bundleIdentifier": "com.nkodder.wwr9",
+            "developerName": "nk Developer",
             "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yO-pgYosj-2Cxc9w7kQcH--Cy1BXCY_8Iw&usqp=CAU",
             "tintColor": "#5CA399",
       "screenshotURLs": [
                 "https://example.com/myapp_screenshot1.png",
