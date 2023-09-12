@@ -1,57 +1,51 @@
 {
-    "name": "nk",
-    "identifier": "com.nkodder.altstore",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yO-pgYosj-2Cxc9w7kQcH--Cy1BXCY_8Iw&usqp=CAU",
-    "headerURL": "https://iosgods.com/uploads/monthly_2023_04/IMG_0.thumb.PNG.eee5d90c9ac48069822d2686aa639617.PNG",
-    "website": "https://nkodder.github.io",
-    "tintColor": "#4185A9",
-    "featuredApps": [
-        "com.example.myapp",
-        "com.example.anotherapp"
-    ],
-    "apps": [
-        {
-            "name": "War robots",
-            "bundleIdentifier": "com.nkodder.wwr9",
-            "developerName": "nk Developer",
-            "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yO-pgYosj-2Cxc9w7kQcH--Cy1BXCY_8Iw&usqp=CAU",
-            "tintColor": "#5CA399",
-      "screenshotURLs": [
-                "https://example.com/myapp_screenshot1.png",
-                "https://example.com/myapp_screenshot2.png",
-                "https://example.com/myapp_screenshot3.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.1",
-                    "date": "2022-05-01T09:00:00-08:00",
-          "size": 20000000,
-          "downloadURL": "https://example.com/myapp_v1.1.ipa",
-          "localizedDescription": "New features and bug fixes.",
-          "minOSVersion": "12.0"},
-
-                
-              {
-                    "version": "1.0",
-                    "date": "2022-03-16T07:00:00-08:00",
-          "size": 10000000,
-          "downloadURL": "https://example.com/myapp_v1.0.ipa",
-          "localizedDescription": "Initial release."
-                }
-            ],
+	"name": "nk",
+	"identifier": "com.nk.altstore",
+  "apps": [
+    {
+			"name": "war robots",
+			"bundleIdentifier": "com.nk.wwr",
+			"developerName": "Suffuse Team",
+			"subtitle": "+6",
+      "version": "9.3.2",
+      "versionDate": "2023-09-05",
+			"versionDescription": "For full release details visit: https://firecore.com/releases",
+			"downloadURL": "https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse.ipa",
+			"size": 43552531,
+			"minOSVersion": "14.0",
+			"localizedDescription": "Hack Features:/- Speed +/- Anti lock move/- rapid fire taran and other/- Gun not broken/- Focus Speed/- Anti lock ability.",
+			"iconURL": "https://suffuse-team.github.io/images/icon.png",
+			"tintColor": "ff8000",
+			"permissions": [
+				{
+					"type": "network",
+					"usageDescription": "Used to discover network shares and Google Cast devices in your local network"
+				},
+				{
+					"type": "bluetooth",
+					"usageDescription": "Used to discover Google Cast devices in your local network"
+				}
+			],
+			"screenshotURLs": [
+				"https://suffuse-team.github.io/images/1.png",
+				"https://suffuse-team.github.io/images/2.png",
+				"https://suffuse-team.github.io/images/3.png",
+				"https://suffuse-team.github.io/images/4.png",
+				"https://suffuse-team.github.io/images/5.png",
+				"https://suffuse-team.github.io/images/6.png",
+				"https://suffuse-team.github.io/images/7.png"
+			]
+		}
+  ],
 "news": [
   {
-    "title": "nkodder Now Available!",
-    "identifier": "nkodder-available-altstore",
-    "caption": "Introducing nkodder's official AltStore Repo",
+    "title": "nk Now Available!",
+    "identifier": "nk-available-altstore",
+    "caption": "Introducing nk's official AltStore Repo",
     "date": "2023-01-04",
     "tintColor": "ff8000",
     "imageURL": "https://suffuse-team.github.io/images/banner.png",
-    "appID": "com.nkodder.altstore",
+    "appID": "com.nk.wwr",
     "notify": true
   }
 ]
