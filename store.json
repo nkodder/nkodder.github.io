@@ -1,19 +1,19 @@
 {
-	"name": "nk",
-	"identifier": "com.nk.altstore",
+	"name": "Suffuse",
+	"identifier": "com.suffuseteam.altstore",
   "apps": [
     {
-			"name": "war robots",
-			"bundleIdentifier": "com.nk.wwr",
-			"developerName": "nk Team",
-			"subtitle": "+6",
-      "version": "9.3.2",
+			"name": "Suffuse",
+			"bundleIdentifier": "com.firecore.infuse",
+			"developerName": "Suffuse Team",
+			"subtitle": "Infuse 7 with Pro unlocked",
+      "version": "7.6",
       "versionDate": "2023-09-05",
 			"versionDescription": "For full release details visit: https://firecore.com/releases",
 			"downloadURL": "https://github.com/Suffuse-Team/suffuse-team.github.io/releases/latest/download/Suffuse.ipa",
 			"size": 43552531,
 			"minOSVersion": "14.0",
-			"localizedDescription": "Hack Features:/- Speed +/- Anti lock move/- rapid fire taran and other/- Gun not broken/- Focus Speed/- Anti lock ability.",
+			"localizedDescription": "Infuse 7 with Pro unlocked\n\nIgnite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files! Infuse is optimized for macOS 12, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.",
 			"iconURL": "https://suffuse-team.github.io/images/icon.png",
 			"tintColor": "ff8000",
 			"permissions": [
@@ -39,13 +39,13 @@
   ],
 "news": [
   {
-    "title": "nk Now Available!",
-    "identifier": "nk-available-altstore",
-    "caption": "Introducing nk's official AltStore Repo",
+    "title": "Suffuse Now Available!",
+    "identifier": "suffuse-available-altstore",
+    "caption": "Introducing Suffuse's official AltStore Repo",
     "date": "2023-01-04",
     "tintColor": "ff8000",
     "imageURL": "https://suffuse-team.github.io/images/banner.png",
-    "appID": "com.nk.wwr",
+    "appID": "com.firecore.infuse",
     "notify": true
   }
 ]
