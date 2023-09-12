@@ -1,6 +1,6 @@
 {
-  "name": "My Example Source",
-  "identifier": "com.example.MyApps",
+  "name": "nkodder Source",
+  "identifier": "com.nkodder.MyApps",
   "subtitle": "All my apps in one place.",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
