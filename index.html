@@ -405,7 +405,70 @@
                         </li>
                         <!--  End of application code  -->
                         
-       
+        <title>Chat System</title>
+    <style>
+        #chat-container {
+            width: 300px;
+            margin: 0 auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        #chat-box {
+            height: 200px;
+            overflow-y: scroll;
+            border: 1px solid #ccc;
+            padding: 5px;
+            margin-bottom: 10px;
+            background-color: #f9f9f9;
+        }
+
+        #message-input {
+            width: 80%;
+            padding: 5px;
+        }
+
+        #send-button {
+            width: 18%;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="chat-container">
+        <div id="chat-box"></div>
+        <input type="text" id="message-input" placeholder="Type a message...">
+        <button id="send-button">Send</button>
+    </div>
+
+    <script>
+        const socket = new WebSocket('ws://localhost:8080');
+
+        socket.addEventListener('message', function(event) {
+            const message = event.data;
+            addMessageToChatBox('Server', message);
+        });
+
+        document.getElementById('send-button').addEventListener('click', function() {
+            const messageInput = document.getElementById('message-input');
+            const message = messageInput.value.trim();
+
+            if (message !== '') {
+                addMessageToChatBox('You', message);
+                socket.send(message);
+                messageInput.value = '';
+            }
+        });
+
+        function addMessageToChatBox(user, message) {
+            const chatBox = document.getElementById('chat-box');
+            const messageElement = document.createElement('div');
+            messageElement.textContent = `${user}: ${message}`;
+            chatBox.appendChild(messageElement);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+    </script>
                         
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inobounce/0.1.5/inobounce.min.js"></script>
