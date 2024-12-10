@@ -3,6 +3,6 @@ Label: nk
 Suite: stable
 Version: 1.2
 Codename: nk
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm64e
 Components: main
 Description: nk
