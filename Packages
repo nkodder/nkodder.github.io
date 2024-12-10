@@ -1,127 +1,42 @@
-Package: com.blitzteam.blitzops
-Version: 8.3
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.blitzteam.blitzops_8.3_iphoneos-arm.deb
-Size: 156056
-Installed-Size: 656
-MD5sum: 903123f53592c75473f6e0f48994daf1
-Description: bt Mod Menu by nk!
-Name: Battle Prime
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
-Package: com.gamegos.mobile.cafeland
-Version: 2.2.76
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.gamegos.mobile.cafeland_2.2.76_iphoneos-arm.deb
-Size: 123858
-Installed-Size: 340
-MD5sum: 4ec6916947822ae888f0939be6012410
-Description: Spend = Earn (everything)
-Name: Cafeland - Restaurant Cooking
-Author: nk
-Homepage: nkodder.github.io
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
-Package: com.hyperbeard.mydearfarm
-Version: 1.4.1
-Section: Games
-Maintainer: nk
+Package: com.ios.il2cppdumper
+Name: IOS Il2CppDumper
+Version: 1.0.0
+Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.hyperbeard.mydearfarm_1.4.1_iphoneos-arm.deb
-Size: 123744
-Installed-Size: 340
-MD5sum: 71b4e534989f05878d1c4624397b548c
-Description: Unlimited Coin|Gem
-Name: My Dear Farm
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
+Filename: ./debs/com.ios.il2cppdumper_1.0.0_iphoneos-arm64e.deb
+Size: 220192
+MD5sum: b0873bf955eb2bd48d645c98df1ecb99
+SHA1: 0787289a41e729e2a522409578baf58d2c83e646
+SHA256: ba709ce0389c23149a14cd7818d7b7868e2fe7e669f145c81e8a4ab9ab07e9b0
+Section: Tweaks
+Description: Dump il2cpp data at runtime on iOS
+Author: 
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 216
 
-Package: com.netease.ma100asia
-Version: 1.199168
-Section: Games
-Maintainer: nk
+
+
+
+Package: com.yourepo.roothidebynk.filzacracked64-bit
+Name: Filza Cracked 64-bit
+Version: 4.0-1
+Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.netease.ma100asia_1.199168_iphoneos-arm.deb
-Size: 124190
-Installed-Size: 340
-MD5sum: 386f910c8116a95de727bc63b89fd09c
-Description: Generator chams|disable Skill check
-Name: DeadByDaylight (netease)
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
-Package: com.pixonic.wwr
-Version: 8.6.1
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.wwr_8.6.1_m1-arm.deb
-Size: 123732
-Installed-Size: 336
-MD5sum: e4b4d3d5f430409afa64e81036967929
-Description: move Speed x2|anti lock move/ability/modul
-Name: War Robots
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
-Package: com.roblox.robloxmobile
-Version: 2.555.874
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.roblox.robloxmobile_2.555.874_iphoneos-arm.deb
-Size: 124126
-Installed-Size: 340
-MD5sum: 44ea723c155e69a7a85f6b8f9a37a830
-Description: Jump to Fly|fly
-Name: Roblox
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
-
-Package: com.tigisoftware.filza64bit
-Version: 4.0.0-4
+Filename: ./debs/com.yourepo.roothidebynk.filzacracked64-bit_4.0-1_iphoneos-arm64e.deb
+Size: 6975404
+MD5sum: 5404ae77c805585ea902afc283a11bf6
+SHA1: 4d66187214023175aeddb7339a72b05d4498bb1d
+SHA256: a4478abc4fc31e03413a739d694c7e56565a5f1e25f0f77408b6b6586cf606e9
 Section: Utilities
-Maintainer: TIGI Software
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: 
-Architecture: iphoneos-arm
-Filename: debs/filza64.deb
-Size: 8788514
-Installed-Size: 23296
-MD5sum: 0aac4cf7aa45a3b8a025db00ac089e7b
-Description: Cracked Full active
-Name: Filza File Manager 64-bit Cracked
-Author: TIGI Software
+Description: Cracked for Roothide ios17
+Author: TIGI Software <info@tigisoftware.com>
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 6812
 
-Package: com.tocaboca.tocalifeworld
-Version: 1.56
-Section: Games
-Maintainer: nk
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.tocaboca.tocalifeworld_1.56_iphoneos-arm.deb
-Size: 123752
-Installed-Size: 340
-MD5sum: 633eae2223e10600d37a2d103c689f43
-Description: unlock map
-Name: Toca World
-Author: nk
-Homepage: 
-Depiction: http://nkodder.github.io/description.html?id=com.nkodder
 
