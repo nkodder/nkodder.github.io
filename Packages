@@ -45,7 +45,7 @@ Installed-size: 216
 Package: com.imem.nk
 Name: nk
 Version: 2.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
 Filename: ./debs/com.imem.nk_2.0_iphoneos-arm.deb
 Size: 1542220
