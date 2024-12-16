@@ -1,22 +1,22 @@
 
 
-Package: com.ios.il2cppdumper
-Name: IOS Il2CppDumper
-Version: 1.0.0
-Architecture: iphoneos-arm64e
+Package: com.imem.nk
+Name: nk
+Version: 2.0
+Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/com.ios.il2cppdumper_1.0.0_iphoneos-arm64e.deb
-Size: 220192
-MD5sum: b0873bf955eb2bd48d645c98df1ecb99
-SHA1: 0787289a41e729e2a522409578baf58d2c83e646
-SHA256: ba709ce0389c23149a14cd7818d7b7868e2fe7e669f145c81e8a4ab9ab07e9b0
-Section: Tweaks
-Description: Dump il2cpp data at runtime on iOS
-Author: 
+Filename: ./debs/com.imem.nk_2.0_iphoneos-arm.deb
+Size: 1542220
+MD5sum: f8c86188263c1fc2da98eb23fa43986d
+SHA1: b5cebdd7645994861bcf5b6534a9763d2ec10755
+SHA256: ecff956924d32a665badeb1e0ebfe447954611a55c1143760c050181a1fe7c90
+Section: Tweak
+Description: scanmem
+Author: nk
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 216
+Installed-size: 1507
 
 
 
@@ -38,5 +38,26 @@ Depiction:
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
 Installed-size: 6812
+
+
+
+
+Package: com.ios.il2cppdumper
+Name: IOS Il2CppDumper
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.ios.il2cppdumper_1.0.0_iphoneos-arm64e.deb
+Size: 220192
+MD5sum: b0873bf955eb2bd48d645c98df1ecb99
+SHA1: 0787289a41e729e2a522409578baf58d2c83e646
+SHA256: ba709ce0389c23149a14cd7818d7b7868e2fe7e669f145c81e8a4ab9ab07e9b0
+Section: Tweaks
+Description: Dump il2cpp data at runtime on iOS
+Author: 
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 216
 
 
