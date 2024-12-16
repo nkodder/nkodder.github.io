@@ -1,5 +1,26 @@
 
 
+Package: com.yourepo.roothidebynk.imemscan
+Name: iMemScan
+Version: 2.0
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.roothidebynk.imemscan_2.0_iphoneos-arm64e.deb
+Size: 1542832
+MD5sum: 8f977967b45d1f076b53a13d4f96654b
+SHA1: 30446bbad15697c6e9c66489a16a33adc023ac2e
+SHA256: 547be65bf2f44f0bc3d09ccfcd0cf1dd996cb8270c34bd3db35aa39bf51214e8
+Section: Development
+Description: scanmem
+Author: nk <nkodder@gmail.com>
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 1507
+
+
+
+
 Package: com.yourepo.roothidebynk.filzacracked64-bit
 Name: Filza Cracked 64-bit
 Version: 4.0-1
@@ -38,26 +59,5 @@ Depiction:
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
 Installed-size: 216
-
-
-
-
-Package: com.imem.nk
-Name: nk
-Version: 2.0
-Architecture: iphoneos-arm64e
-Depends: mobilesubstrate
-Filename: ./debs/com.imem.nk_2.0_iphoneos-arm.deb
-Size: 1542220
-MD5sum: f8c86188263c1fc2da98eb23fa43986d
-SHA1: b5cebdd7645994861bcf5b6534a9763d2ec10755
-SHA256: ecff956924d32a665badeb1e0ebfe447954611a55c1143760c050181a1fe7c90
-Section: Tweak
-Description: scanmem
-Author: nk
-Depiction: 
-SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 1507
 
 
