@@ -4,7 +4,7 @@ Version: 2.0
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
 Filename: ./debs/com.nk.iMemScan.deb
-Size: 1543072
+Size: 1541100
 MD5sum: 04cae5a8e871735968287eff27194a76
 SHA1: b62c39940fef0c81ae6f86c722df639b4eaea120
 SHA256: e231f7b91025193736128a753c619ab1fb706727cf4fe0816cfbcc193734de84
