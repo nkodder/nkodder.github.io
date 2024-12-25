@@ -1,13 +1,13 @@
-Package: com.nk.i
+Package: com.nk.iMemScan
 Name: iMemScan Th
 Version: 2.0
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
-Filename: ./debs/com.nk.i.deb
+Filename: ./debs/com.nk.iMemScan.deb
 Size: 1543072
-MD5sum: 3cc9d64026f31839b081e8ef03fefe21
-SHA1: bbe2a77443f29ef9178dacce1fe2f9b19fb979d7
-SHA256: 898699d158af399e26046638a6a25681996d5e0eac91fd57f9e2344b46a97b37
+MD5sum: 04cae5a8e871735968287eff27194a76
+SHA1: b62c39940fef0c81ae6f86c722df639b4eaea120
+SHA256: e231f7b91025193736128a753c619ab1fb706727cf4fe0816cfbcc193734de84
 Section: Utilities
 Description:  iMemScan v.Th for Roothide ios17
 Author: nk
