@@ -3,7 +3,7 @@ Name: H5gg ios17
 Version: 7.9
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
-Filename: ./debs/com.nk.h5gg-arm64e.deb
+Filename: ./debs/com.nk.h5gg.deb
 Size: 1679872
 MD5sum: 413aa49bbf9b2704505973761265d5bf
 SHA1: 131bd7ffb286572d0c8877369bf4597c61dfc18a
