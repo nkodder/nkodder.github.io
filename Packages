@@ -4,10 +4,10 @@ Version: 7.9
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
 Filename: ./debs/com.nk.h5gg-arm64e.deb
-Size: 1679856
-MD5sum: c3abd8d051fc7c8488aaa9feb17b185b
-SHA1: 31910ba37d82bfb9be55ba7dac81242265c98523
-SHA256: 46d84f6e63f720b050aaef0c4c03c89095b67f060b5137e5bd177673c3f13cc2
+Size: 1679872
+MD5sum: 413aa49bbf9b2704505973761265d5bf
+SHA1: 131bd7ffb286572d0c8877369bf4597c61dfc18a
+SHA256: 1a47e0de49ea491b6521e8d679f850dc082496bffcb0a938029f1695e693ef6a
 Section: Utilities
 Description:  for Roothide ios17
 Author: nk
