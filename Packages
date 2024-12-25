@@ -3,7 +3,7 @@ Name: H5gg ios17
 Version: 7.9
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
-Filename: ./debs/com.nk.h5gg.deb
+Filename: ./debs/com.nk.h5gg-arm64e.deb
 Size: 1679856
 MD5sum: c3abd8d051fc7c8488aaa9feb17b185b
 SHA1: 31910ba37d82bfb9be55ba7dac81242265c98523
@@ -14,7 +14,7 @@ Author: nk
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 6812
+Installed-size: 1512
 
 Package: com.nk.filzacracked64-bit
 Name: Filza Cracked 64-bit
