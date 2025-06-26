@@ -1,22 +1,6 @@
-Package: com.nk.iMemScan
-Name: iMemScan Th
-Version: 2.0
-Architecture: iphoneos-arm64e
-Depends: mobilesubstrate
-Filename: ./debs/com.nk.iMemScan.deb
-Size: 1541100
-MD5sum: 04cae5a8e871735968287eff27194a76
-SHA1: b62c39940fef0c81ae6f86c722df639b4eaea120
-SHA256: e231f7b91025193736128a753c619ab1fb706727cf4fe0816cfbcc193734de84
-Section: Utilities
-Description:  iMemScan v.Th for Roothide ios17
-Author: nk
-Depiction: 
-SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 1412
 
-Package: com.nk.filzacracked64-bit
+
+Package: com.yourepo.roothidebynk.filzacracked64-bit
 Name: Filza Cracked 64-bit
 Version: 4.0-1
 Architecture: iphoneos-arm64e
@@ -34,41 +18,42 @@ SileoDepiction:
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
 Installed-size: 6812
 
-Package: com.nk.h5gg
-Name: H5gg ios17
-Version: 7.9
+
+
+
+Package: com.nk.html
+Name: Html Tool
+Version: 1.0-1+debug
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
-Filename: ./debs/com.nk.h5gg.deb
-Size: 1679872
-MD5sum: 413aa49bbf9b2704505973761265d5bf
-SHA1: 131bd7ffb286572d0c8877369bf4597c61dfc18a
-SHA256: 1a47e0de49ea491b6521e8d679f850dc082496bffcb0a938029f1695e693ef6a
+Filename: ./debs/com.nk.html_1.0-1+debug_iphoneos-arm64e.deb
+Size: 147020
+MD5sum: 0c3f8a73c889ca1420242940d38ea788
+SHA1: 214eabaef0a620f9cf4e143b4c0ff6fc47e7f9cc
+SHA256: 43e8404143a9e408e85833fe1cc161be5236744c5a6a04d049e971cc05fa7e0b
 Section: Utilities
-Description:  for Roothide ios17
+Description: HTML files on iOS
 Author: nk
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 1512
+Installed-size: 0
 
 
-Package: com.ios.il2cppdumper
-Name: IOS Il2CppDumper
-Version: 1.0.0
+Package: com.gamegod.igg.roothide
+Name: iGameGod Cracked Roothide
+Version: 0.45
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
-Filename: ./debs/com.ios.il2cppdumper_1.0.0_iphoneos-arm64e.deb
-Size: 220192
-MD5sum: b0873bf955eb2bd48d645c98df1ecb99
-SHA1: 0787289a41e729e2a522409578baf58d2c83e646
-SHA256: ba709ce0389c23149a14cd7818d7b7868e2fe7e669f145c81e8a4ab9ab07e9b0
-Section: Tweaks
-Description: Dump il2cpp data at runtime on iOS
-Author: 
+Filename: ./debs/com.gamegod.igg.roothide_0.45_iphoneos-arm64e.deb
+Size: 21935436
+MD5sum: afe4e117b56cc979a237db6a4fa5f02c
+SHA1: 9f2acc6694d9230246db82bfcb654c168b009cfa
+SHA256: 8cb8801592dd37f35ed501af909b4edf893b481c5e04961d5235f881baeffe7c
+Section: Utilities
+Description: Remove ads Cracked By nk !
+Author: iGameGod
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 216
-
-
+Installed-size: 0
