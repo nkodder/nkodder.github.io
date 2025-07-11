@@ -64,7 +64,7 @@ Version: 1.0+debug
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
 Filename: ./debs/com.nk.decrypt_1.0+debug_iphoneos-arm64e.deb
-Size: 138346
+Size: 162120
 MD5sum: 2d1e55642d6ab60542bc193ef40ece41
 SHA1: d1b6536efd7ccbdcba53a0999afa39b6aaa5f413
 SHA256: 68474d6d494e1befeb779e5ede59195736f29a640c6f8f9055b6fb4b9a3ef813
