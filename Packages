@@ -23,14 +23,14 @@ Installed-size: 6812
 
 Package: com.nk.html
 Name: Html Tool
-Version: 1.0-1+debug
+Version: 1.2-1+debug
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
-Filename: ./debs/com.nk.html_1.0-1+debug_iphoneos-arm64e.deb
-Size: 147020
-MD5sum: 0c3f8a73c889ca1420242940d38ea788
-SHA1: 214eabaef0a620f9cf4e143b4c0ff6fc47e7f9cc
-SHA256: 43e8404143a9e408e85833fe1cc161be5236744c5a6a04d049e971cc05fa7e0b
+Filename: ./debs/com.nk.html_1.2-1+debug_iphoneos-arm64e.deb
+Size: 138346
+MD5sum: 47c14019a51f1e357332481730cbdd84
+SHA1: fed0121dbfd3f1cb16f9a75bab397fcd57992b03
+SHA256: aab1c926df91145f112b3efe144e3aa5afe7586487c3a7e386d768741eff017e
 Section: Utilities
 Description: HTML files on iOS
 Author: nk
@@ -53,6 +53,24 @@ SHA256: 8cb8801592dd37f35ed501af909b4edf893b481c5e04961d5235f881baeffe7c
 Section: Utilities
 Description: Remove ads Cracked By nk !
 Author: iGameGod
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 0
+
+Package: com.nk.decrypt
+Name: Decrypt++
+Version: 1.0+debug
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.nk.decrypt_1.0+debug_iphoneos-arm64e.deb
+Size: 138346
+MD5sum: 2d1e55642d6ab60542bc193ef40ece41
+SHA1: d1b6536efd7ccbdcba53a0999afa39b6aaa5f413
+SHA256: 68474d6d494e1befeb779e5ede59195736f29a640c6f8f9055b6fb4b9a3ef813
+Section: Utilities
+Description: can dump binary
+Author: nk
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
