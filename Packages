@@ -1,5 +1,26 @@
 
 
+Package: com.ethanarbuckle.jb-detect-bypass
+Name: tweak detection bypass
+Version: 1.0.1-1+debug
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.ethanarbuckle.jb-detect-bypass_1.0.1-1+debug_iphoneos-arm64e.deb
+Size: 26570
+MD5sum: a793bedd8f9d108231fdb6431a282fee
+SHA1: 56ae2b680f47da96fe8112daf33e8b77c5b624ee
+SHA256: 09ebeb80d390c70bdb591ca25b04e7faa2d104b2b1702052669fbc7bd60fe412
+Section: System
+Description: enable tweaks in apps that usually crash when they detect a tweak loader add iGameGod
+Author: ethan arbuckle
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 26
+
+
+
+
 Package: com.yourepo.roothidebynk.filzacracked64-bit
 Name: Filza Cracked 64-bit
 Version: 4.0-1
