@@ -1,5 +1,26 @@
 
 
+Package: com.nk.decrypt
+Name: Decrypt++
+Version: 1.2
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nk.decrypt_1.2+debug_iphoneos-arm64e.deb
+Size: 150104
+MD5sum: 707e61149ce86a2c7108c2e7ed57b798
+SHA1: 86494a848a4b8d5e7d0c9f7731515b2a424722b1
+SHA256: 014bf210a4e72c8fbf760f9a8c3861a5b6216a14ffb186b1e81c4b206c2cabfc
+Section: Tweaks
+Description: can dump binary only
+Author: nk
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 0
+
+
+
+
 Package: com.ethanarbuckle.jb-detect-bypass
 Name: tweak detection bypass
 Version: 1.0.1-1+debug
@@ -74,24 +95,6 @@ SHA256: 8cb8801592dd37f35ed501af909b4edf893b481c5e04961d5235f881baeffe7c
 Section: Utilities
 Description: Remove ads Cracked By nk !
 Author: iGameGod
-Depiction: 
-SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 0
-
-Package: com.nk.decrypt
-Name: Decrypt++
-Version: 1.0+debug
-Architecture: iphoneos-arm64e
-Depends: mobilesubstrate
-Filename: ./debs/com.nk.decrypt_1.0+debug_iphoneos-arm64e.deb
-Size: 162120
-MD5sum: 2d1e55642d6ab60542bc193ef40ece41
-SHA1: d1b6536efd7ccbdcba53a0999afa39b6aaa5f413
-SHA256: 68474d6d494e1befeb779e5ede59195736f29a640c6f8f9055b6fb4b9a3ef813
-Section: Utilities
-Description: can dump binary
-Author: nk
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
