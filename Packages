@@ -1,43 +1,22 @@
 
 
-Package: com.nk.decrypt
-Name: Decrypt++
-Version: 1.2
-Architecture: iphoneos-arm64e
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.nk.decrypt_1.2+debug_iphoneos-arm64e.deb
-Size: 150104
-MD5sum: 707e61149ce86a2c7108c2e7ed57b798
-SHA1: 86494a848a4b8d5e7d0c9f7731515b2a424722b1
-SHA256: 014bf210a4e72c8fbf760f9a8c3861a5b6216a14ffb186b1e81c4b206c2cabfc
-Section: Tweaks
-Description: can dump binary only
-Author: nk
-Depiction: 
-SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 0
-
-
-
-
-Package: com.ethanarbuckle.jb-detect-bypass
-Name: tweak detection bypass
-Version: 1.0.1-1+debug
+Package: com.yourepo.nkodder.homegestureios1588
+Name: ⚡Home Gesture(ios 15.8.8)
+Version: 0.0.1
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
-Filename: ./debs/com.ethanarbuckle.jb-detect-bypass_1.0.1-1+debug_iphoneos-arm64e.deb
-Size: 26570
-MD5sum: a793bedd8f9d108231fdb6431a282fee
-SHA1: 56ae2b680f47da96fe8112daf33e8b77c5b624ee
-SHA256: 09ebeb80d390c70bdb591ca25b04e7faa2d104b2b1702052669fbc7bd60fe412
-Section: System
-Description: enable tweaks in apps that usually crash when they detect a tweak loader add iGameGod
-Author: ethan arbuckle
+Filename: ./debs/com.yourepo.nkodder.homegestureios1588_0.0.1_iphoneos-arm64e.deb
+Size: 3618
+MD5sum: 4063704985e4df2a93a327df6c1eb377
+SHA1: 5f5ae0828e34025fa0a92657fd5c629965f44648
+SHA256: 3e266f120d1a8b0a2df8f9fcd4c81b25d51fd437deb6e316590e464dfb0538c7
+Section: Tweaks
+Description: Patch for ⚡Home X se1
+Author: nk <nk@gmail.com>
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 26
+Installed-size: 4
 
 
 
@@ -63,30 +42,32 @@ Installed-size: 6812
 
 
 
-Package: com.nk.html
-Name: Html Tool
-Version: 1.2-1+debug
+Package: com.nk.decrypt
+Name: Decrypt++
+Version: 1.2
 Architecture: iphoneos-arm64e
-Depends: mobilesubstrate
-Filename: ./debs/com.nk.html_1.2-1+debug_iphoneos-arm64e.deb
-Size: 138346
-MD5sum: 47c14019a51f1e357332481730cbdd84
-SHA1: fed0121dbfd3f1cb16f9a75bab397fcd57992b03
-SHA256: aab1c926df91145f112b3efe144e3aa5afe7586487c3a7e386d768741eff017e
-Section: Utilities
-Description: HTML files on iOS
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nk.decrypt_1.2+debug_iphoneos-arm64e.deb
+Size: 150104
+MD5sum: 707e61149ce86a2c7108c2e7ed57b798
+SHA1: 86494a848a4b8d5e7d0c9f7731515b2a424722b1
+SHA256: 014bf210a4e72c8fbf760f9a8c3861a5b6216a14ffb186b1e81c4b206c2cabfc
+Section: Tweaks
+Description: can dump binary only
 Author: nk
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 0
+Installed-size: 147
+
+
 
 
 Package: com.gamegod.igg.roothide
 Name: iGameGod Cracked Roothide
-Version: 0.45
+Version: 0.4.5
 Architecture: iphoneos-arm64e
-Depends: mobilesubstrate
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.gamegod.igg.roothide_0.45_iphoneos-arm64e.deb
 Size: 21935436
 MD5sum: afe4e117b56cc979a237db6a4fa5f02c
@@ -98,4 +79,6 @@ Author: iGameGod
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 0
+Installed-size: 21422
+
+
