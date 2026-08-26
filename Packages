@@ -1,5 +1,26 @@
 
 
+Package: com.yourname.subscriptionextender
+Name: PolyGit Git Client
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.6300), firmware (>= 15.0)
+Filename: ./debs/com.yourname.subscriptionextender_1.0-1+debug_iphoneos-arm64e-2.deb
+Size: 10584
+MD5sum: 8c577851bf3bf9ed6e982afb539f458a
+SHA1: 0dac7b570f53e0947112ca90074a4eb50db80430
+SHA256: a5eadd42a19785e3d0eed80b3f4eb04b2824c98b24d788395ca9688bc8d5d5f4
+Section: Tweaks
+Description: Extend subscription to 100 years
+Author: Nkodder
+Depiction: Sub 100year Cracked By nk
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 0
+
+
+
+
 Package: com.yourepo.nkodder.homegestureios1588
 Name: ⚡Home Gesture(ios 15.8.8)
 Version: 0.0.1
