@@ -18,6 +18,23 @@ SileoDepiction:
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
 Installed-size: 0
 
+Package: com.yourname.htmlobfuscator
+Name: html tool
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64e
+Depends:firmware (>= 10.0)
+Filename: ./debs/html.deb
+Size: 148184
+MD5sum: e7c90ee365e96bba71d093cbd4377587
+SHA1: fa6961d948e50b7332e7d8aa92b03b3ca80c788a
+SHA256: 60c275b0f8e014b55e8933b7ba6ecad67c43b667433c4f8369fee91a142e37f4
+Section: Tweaks
+Author: Nkodder
+Depiction: Advanced HTML obfuscation tool with stealth mode By nk
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 0
+
 
 
 
