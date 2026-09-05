@@ -1,5 +1,26 @@
 
 
+Package: com.yourcompany.armconverter
+Name: ArmConverter
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.armconverter_0.0.1-1+debug_iphoneos-arm64e-1.deb
+Size: 6238344
+MD5sum: 2f42389ef7bb6baa7055a55ecc446d14
+SHA1: b424a9f2b88840b98f32f8a24b478c7c6eac5aa7
+SHA256: a3dba4d32ba252cb1941c94ca11d475303f06cef37861be61037aa1b4998f2f1
+Section: Utilities
+Description: Hex to arm
+Author: Nk
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 6093
+
+
+
+
 Package: com.yourname.subscriptionextender
 Name: PolyGit Git Client
 Version: 1.0-1+debug
