@@ -24,18 +24,22 @@ Installed-size: 0
 
 
 
+
+
+
+
 Package: com.yourcompany.armconverter
 Name: ArmConverter
-Version: 0.0.1-1+debug
+Version: 1.3
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.armconverter_0.0.1-1+debug_iphoneos-arm64e-1.deb
+Filename: ./debs/arm.deb
 Size: 6238344
 MD5sum: 2e8a8487a7fca1ee18a5d2b0a31aa1f3
 SHA1: 778793aeff3bc591dcb92b0d8b94a99d8a0a315b
 SHA256: 20acc6515b94ec7bed8fc866c043358f4d100156ac670b4293de8f3958ee04c6
 Section: Utilities
-Description: Hex to arm
+Description: ArmConverter Offline 
 Author: Nk
 Depiction: 
 SileoDepiction: 
