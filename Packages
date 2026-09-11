@@ -16,7 +16,11 @@ Author: Your Name
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 0
+Installed-size: 11
+
+
+
+
 
 
 
@@ -34,7 +38,7 @@ Version: 1.3
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate
 Filename: ./debs/arm.deb
-Size: 6238344
+Size: 2585448
 MD5sum: 2e8a8487a7fca1ee18a5d2b0a31aa1f3
 SHA1: 778793aeff3bc591dcb92b0d8b94a99d8a0a315b
 SHA256: 20acc6515b94ec7bed8fc866c043358f4d100156ac670b4293de8f3958ee04c6
@@ -44,10 +48,9 @@ Author: Nk
 Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 2585448
+Installed-size: 0
 
-
-
+Size: 2585448
 
 Package: com.yourname.htmlobfuscator
 Name: html tool
