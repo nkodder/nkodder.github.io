@@ -1,26 +1,5 @@
 
 
-Package: com.yourcompany.armconverter
-Name: ArmConverter
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm64e
-Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.armconverter_0.0.1-1+debug_iphoneos-arm64e-1.deb
-Size: 6238344
-MD5sum: 2f42389ef7bb6baa7055a55ecc446d14
-SHA1: b424a9f2b88840b98f32f8a24b478c7c6eac5aa7
-SHA256: a3dba4d32ba252cb1941c94ca11d475303f06cef37861be61037aa1b4998f2f1
-Section: Utilities
-Description: Hex to arm
-Author: Nk
-Depiction: 
-SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 6093
-
-
-
-
 Package: com.yourname.subscriptionextender
 Name: PolyGit Git Client
 Version: 1.0-1+debug
@@ -33,11 +12,38 @@ SHA1: 0dac7b570f53e0947112ca90074a4eb50db80430
 SHA256: a5eadd42a19785e3d0eed80b3f4eb04b2824c98b24d788395ca9688bc8d5d5f4
 Section: Tweaks
 Description: Extend subscription to 100 years
-Author: Nkodder
-Depiction: Sub 100year Cracked By nk
+Author: Your Name
+Depiction: 
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
 Installed-size: 0
+
+
+
+
+
+
+
+Package: com.yourcompany.armconverter
+Name: ArmConverter
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.armconverter_0.0.1-1+debug_iphoneos-arm64e-1.deb
+Size: 6238344
+MD5sum: 2e8a8487a7fca1ee18a5d2b0a31aa1f3
+SHA1: 778793aeff3bc591dcb92b0d8b94a99d8a0a315b
+SHA256: 20acc6515b94ec7bed8fc866c043358f4d100156ac670b4293de8f3958ee04c6
+Section: Utilities
+Description: Hex to arm
+Author: Nk
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 2585448
+
+
+
 
 Package: com.yourname.htmlobfuscator
 Name: html tool
